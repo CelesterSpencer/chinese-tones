@@ -10,14 +10,14 @@ import {loadRating, saveRating} from '../core/rating';
 //import hsk2 from "../../res/hsk2.json";
 //import hsk3 from "../../res/hsk3.json";
 import cfd1 from "../../res/cfd1.json";
-import cfd1p1 from "../../res/cfd1p1.json";
+//import cfd1p1 from "../../res/cfd1p1.json";
 
 let decks = [
     //new Deck(hsk1.name, hsk1.cards),
     //new Deck(hsk2.name, hsk2.cards),
     //new Deck(hsk3.name, hsk3.cards),
     new Deck(cfd1.name, cfd1.cards),
-    new Deck(cfd1p1.name, cfd1p1.cards)
+    //new Deck(cfd1p1.name, cfd1p1.cards)
 ];
 // add ratings
 decks.forEach(deck => {loadRating(deck); saveRating(deck);});

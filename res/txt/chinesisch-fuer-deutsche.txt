@@ -1,4 +1,4 @@
-﻿Chinesisch für Deutsche 1
+﻿Chin. für Deutsche 1
 这		zhe4			dies (hier), das (hier)
 是		shi4			sein (Bindewort)
 爸爸		ba4ba			Vater, Papa
@@ -508,3 +508,529 @@
 饭馆		fan4guan3		Restaurant (ZW 家)	
 跳舞		tiao4wu3		tanzen
 高兴		gao1xing4		froh, fröhlich, glücklich (sein)
+听		ting1			etw. hören, anhören,(einsilbig)
+前天		qian2tian1		vorgestern
+觉得		jue2de			sich... fühlen, meinen, finden, dass...
+拿		na2				etw. holen, nehmen, halten
+讲义		jiang3yi4		Unterrichtskopien (ZW 份)
+份		fen4			Satz, Ausgabe,Kopien, Zeitung
+这几天	zhe4ji3tian1	in diesen Tagen, in letzter Zeit
+别的		bie2de			anderes,(nicht 其他 oder 另)
+周末		zhou1mo4		Wochenende (ZW 个)
+一定		yi2ding4		sicher, bestimmt, unbedingt
+其他		qi2ta1			andere/r/s, die übrigen, das übrige,(nicht 另 oder 别的)
+举		ju3				etw. heben, erheben,Hand, Glas
+用法		yong4fa3		Gebrauch, Anwendung(smöglichkeit)
+动词		dong4ci2		Verb (ZW 个)
+复杂		fu4za2			kompliziert (sein)
+糊涂		hu2tu			konfus, wirr, durcheinander, unklar (sein)
+已经		yi3jing1		schon, bereits
+关于		guan1yu2		über, zu; bezüglich,ein/em/es Thema(s); (nichts mit 有)
+放心		fang4xin1		sich keine Sorgen machen, ruhig sein
+能		neng2			können, in der Lage sein, dürfen
+可以		ke3yi3			können, dürfen, erlaubt sein
+得		dei3 			müssen
+得		de				Komplementpartikel
+必须		bi4xu1			müssen (formeller als 得)
+不必		bu2bi4			nicht müssen, nicht brauchen, (nichts mit 用)
+游泳		yo2uyong3		schwimmen
+划船		hua2chuan2		(ein Boot) rudern
+怕		pa4				etw./jn. fürchten; Angst haben, zu tun
+水		shui3			Wasser
+黑		hei1			schwarz, dunkel, finster (sein)
+带		dai4			etw. bei/mit sich tragen, mitbringen
+雨伞		yu3san3			Regenschirm (ZW 把)
+听课		ting1ke4		hospitieren, am Unterricht teilnehmen, eine Vorlesung hören
+打算		da3suan4		vorhaben, planen zu tun, Absicht, Vorhaben (ZW 个)
+实习		shi2xi2			ein Praktikum machen, Praktikum
+故事		gu4shi			Geschichte, Erzählung (ZW 个)
+当		dang1			als... tätig sein
+生		sheng1			(er)zeugen, produzieren, gebären
+抽烟		chou1yan1		rauchen
+酒		jiu3			Alkohol, alkoholische Getränke
+想		xiang3			wollen, mögen, wünschen, über etw. nachdenken, (ich) glaube, denke, nehme an, dass...
+不用		bu2yong4		nicht zu tun brauchen
+愿意		yuan4yi4		bereit/willig sein, gern tun, mögen
+留学		liu2xue2		im Ausland studieren
+外办		wai4ban4		Büro für Auswärtiges
+主任		zhu3ren4		Leiter/in, Direktor/in
+办		ban4			etw. erledigen, ausführen
+手续		shou3xu4		Formalitäten (ZW 个)
+重要		zhong4yao4		wichtig, bedeutend, bedeutsam (sein)
+留学生	liu2xue2sheng1	im Ausland Studierende/r
+宿舍		su4she4			Wohnheim (ZW 所, 座)
+服务台	fu2wu4tai2		Rezeption, Etagendienst (ZW 个)
+行李		xing2li			Gepäck (ZW 件)
+名字		ming2zi			Name, Personen, Filme etc. (ZW 个)
+楼上		lou2shang4		obere Etage/n, eine Treppe höher
+住		zhu				wohnen, etw. bewohnen, wohnen in
+同屋		tong2wu1		Mitbewohner/in
+这样		zhe4yang4		so, solcherart, auf diese Weise
+不用谢	bu2yong4xie4	Nichts zu danken!
+办事		ban4shi4		etwas tun, etwas erledigen
+楼下		lou2xia4		eine/ein paar Etagen tiefer, unten im Haus
+地		de				Adverbialpartikel
+站		zhan4			stehen an, bei
+十字路口	shi2zi4lu4kou3	(Straßen-)Kreuzung
+马路		ma3lu4			Straße (ZW 条)
+过马路	guo4ma3lu4		die Straße überqueren
+过去		guo4qu			hinüber-, vorbeigehen, überqueren
+过去		guo4qu4			Vergangenheit
+声		sheng1			Geräusch, Laut, Ton, Stimme
+小心		xiao3xin1		vorsichtig, sorgfältig (sein)
+随便		sui2bian4		ungezwungen (sein), nach Belieben; unbesonnen, unüberlegt (sein)
+跑		pao3			laufen, rennen; gehen, fahren nach
+听话		ting1hua4		auf jn. hören, jm. gehorchen, folgsam (sein)
+忘		wang4			etw. vergessen, vergessen etw. zu tun
+危险		wei1xian3		gefährlich (sein), Gefahr
+灯		deng1			Lampe (ZW 盏)
+盏		zhan3			ZW u.a. für Lampen
+绿		lv4				grün
+老大		lao3da4			der/die Älteste in einer Geschwisterreihe
+考试		kao3shi4		Prüfung haben, abhalten, einen Test schreiben, Prüfung, Test (ZW 个, 门)
+因为		yin1wei4		weil, da
+电梯		dian4ti1		Fahrstuhl (ZW 部)
+大衣		da4yi1			Mantel (ZW 件)
+薄		bao2			dünn (sein) (Bücher, Kleidung etc.)
+边		bian			Suffix für Ortsnomina
+边		bian1			Seite, Rand, Kante
+北大		Bei3da4 		Peking-Universität (Kurzform für Bei3jing1Da4xue2)
+城里		cheng2li3		Innenstadt, in der Stadt
+同事		tong2shi4		Arbeitskollege, -kollegin
+可是		ke3shi4			aber, schwächer, eher ugs.
+一般		yi4ban1			gewöhnlich, üblich, normalerweise, mittelmäßig, nichts besonderes (sein)
+附近		fu4jin4			in der Nähe, nahebei
+看见		kan4jian4		jn./etw. sehen, erblicken
+父亲		fu4qin1			Vater
+见面		jian4mian4		sich treffen, sich sehen
+母亲		mu3qin1			Mutter
+干		gan4 			etw. tun, machen (nur mit allgemeinen Objekten: 什么, 这个, 那个)
+干		gan1			trocken (sein)
+重		zhong4			schwer, gewichtig (sein)
+父母		fu4mu3			Eltern
+猜		cai1			vermuten; raten, dass...
+长大		zhang3da4		aufwachsen, heranwachsen
+黑板		hei1ban3		Wandtafel (ZW 张)
+美		mei3			schön, hübsch (sein)
+草书		cao3shu1		Kalligrafie
+可惜		ke3xi1			leider, bedauerlich; schade, dass...
+擦		ca1				etw. reiben, (ab-, trocken-)wischen
+错		cuo4			falsch, schlecht (sein)
+不错		bu2cuo4			das stimmt, trifft zu; ziemlich gut, gar nicht schlecht (sein)
+电脑		dian4nao3		Computer (ZW 台)
+信		xin4			Brief (ZW 封)
+封		feng1			ZW u.a. für Briefe, etw. blockieren
+打字		da3zi4			tippen (auf Schreibmaschine/Computer)
+外文		wai4wen2		Fremdsprache, eher geschriebene (ZW 门, 种)
+外语		wai4yu3			Fremdsprache, eher gesprochene (ZW 门, 种)
+英国		ying1guo2		England
+当然		dang1ran2		selbstverständlich, klar, ohne Frage, natürlich
+关系		guan1xi4		Beziehung(en), Zusammenhang
+学期		xue2qi1			Schulhalbjahr, Semester (ZW 个)
+讲		jiang3			etw. erklären, erläutern, sprechen, etw. erzählen
+讲课		jiang3ke4		lehren, unterrichten, Unterricht geben
+长		chang2 			lang (sein) (räumlich und zeitlich)
+长		zhang3			wachsen
+解释		jie3shi4		etw. erklären, erläutern, Erläuterung
+要命		yao4ming4		furchtbar, äußerst, auf die Nerven gehen, was für ein Pech
+严		yan2			streng, hart (sein)
+不得了	bu4de2liao3		äußerst, fürchterlich, entsetzlich, schrecklich
+运动		yun4dong4		sich bewegen, Bewegung, Sport, Kampagne
+乒乓球	ping1pang1qiu2	Tischtennis
+场		chang3			ZW u.a. für Wettkämpfe, Konzerte
+参加		can1jia1		teilnehmen an
+钟头		zhong1tou2		Stunde (ZW 个)
+夏天		xia4tian1		Sommer
+散步		san4bu4			spazierengehen
+种		zhong3			ZW Sorte, Art (Tee, Sport etc.)
+毕业		bi4ye4			die (Hoch-)Schule abschließen
+出口		chu1kou3		Export, etw. exportieren
+翻译		fan1yi4			(etw.) übersetzen, dolmetschen, Übersetzer/in, Dolmetscher/in
+工资		gong1zi1		Lohn, Gehalt
+才		cai1			erst, erst dann, nur
+去年		qu4nian2		letztes/vergangenes Jahr
+差不多	cha4bu5duo1		hinreichend (sein), ungefähr, fast
+刻种		ke4zhong1		Viertelstunde
+久		jiu3			lange, lange Zeit
+过		guo4			vergehen, Zeit, etw. überqueren, etw. begehen, Fest, Geburtstag etc.
+过		guo				Verbalpartikel: Aspekt unbestimmter Vergangenheit
+丹麦		dan1mai4		Dänemark
+故事片	gu4shi4pian1	Spielfilm (ZW 部)
+肉		rou4			Fleisch
+气		qi4				sich ärgern, jn. ärgern
+跟		gen1			und, mit, zu, etw./jm. folgen
+跟…有关系	gen1...you3guan1xi4	Beziehungen haben zu jm., in Beziehung stehen zu etw.
+明白		ming2bai		klar, deutlich (sein), etw. verstehen, begreifen
+想法		xiang3fa3		Gedanke, Idee, Einfall, Meinung
+音乐会	yin1yue4hui4	Konzert (ZW 场)
+现代		xian4dai4		Gegenwart, Moderne, modern, heutig, gegenwärtig
+音乐		yin1yue4		Musik
+好听		hao3ting1		wohlklingend, schön anzuhören
+象棋		xiang4qi2		chinesisches Schachspiel
+好玩儿	hao3wan2er		unterhaltsam sein, Spaß machen
+啤酒		pi2jiu3			Bier
+牌子		pai2zi			Marke, Warenzeichen (ZW 个)
+香烟		xiang1yan1		Zigarette(n) (ZW 枝 (einzelne), 包 (Päckchen), 条 (Stange))
+包		bao1			ZW: Päckchen, Paket, Karton, Bündel
+点		dian3			etw. anzünden, Punkt (in chin. Schriftzeichen)
+还是		hai2shi			trotzdem, dennoch, gleichwohl, oder (in Alternativfragen)
+岁		sui4			Lebensjahr
+生日		sheng1ri4		Geburtstag
+祝贺		zhu4he4			jn. beglückwünschen, jm. gratulieren
+礼物		li3wu4			Geschenk (ZW 件)
+祝		zhu4			jm. etw. wünschen
+快乐		kuai4le4		glücklich, vergnügt, fröhlich (sein) (v.A. in Glückwünschen)
+一切如意	yi2qie4ru2yi4	Alles nach Wunsch! Glückwunsch
+送		song4			jm. etw. schenken, jn. begleiten bei..., etw. überbringen, schicken (per Boten)
+却		que4			trotzdem, dennoch, und doch (nur nach Subjekt)
+希望		xi1wang4		hoffen, dass..., erwarten, dass...
+穿		chuan1			etw. anziehen (Kleidung)
+颜色		yan2se4			Farbe
+脏		zang1			schmutzig, dreckig (sein)
+有用		you3yong4		von Nutzen, nützlich, brauchbar (sein)
+旅行社	lv3xing2she4	Reisebüro (ZW 家)
+告诉		gao4su			jm. etw. mitteilen, jm. mitteilen, dass...
+消息		xiao1xi			Nachricht, Neuigkeit, Information (ZW 个, 种)
+借		jie4			sich etw. leihen, borgen
+给		gei3			jm. etw. geben, für, zugunsten
+糖		tang2			Zucker, Bonbon
+笑		xiao4			lächeln, lachen, jn. auslachen
+没有用	mei2you3yong4	unnütz, unbrauchbar, nutzlos (sein)
+请		qing3			jn. bitten, etw. zu tun; jn. einladen zu..., Bitte...!
+跟我念	gen1wo3nian4	Lesen Sie nach, was ich vorlese.
+要是		yao4shi			wenn, falls
+完		wan2			beendet, aus, zu Ende sein
+饱		bao3			satt, gesättigt (sein)
+一样		yi2yang4		gleich (sein)
+成		cheng2			glücken, gelingen, werden zu, sich verwandeln in
+闹钟		nao4zhong1		Wecker (ZW 个)
+听见		ting1jian4		etw. hören
+抱歉		bao4qian4		bedauerlich (sein), leider, es tut mir Leid
+画		hua4			etw. malen, zeichnen (Zeichnung, Bild) (ZW 张)
+画画		hua4hua4		ein Bild malen, eine Zeichnung machen
+客厅		ke4ting1		Wohnzimmer (ZW 间)
+干净		gan1jing4		sauber (sein)
+极		ji2				äußerst (als Kompl. des Resultats)
+小说		xiao3shuo1		Roman, Erzählung (ZW 本, 部, 篇)
+照相机	zhao4xiang4ji1	Fotoapparat, Kamera (ZW 架, 台)
+织		zhi1			etw. stricken, weben
+袜子		wa4zi			Socke, Strumpf (ZW 只, 双)
+死		si3				sterben, äußerst (als Komplement des Resultats)
+着		zhao2			brennen, leiden an
+着		zhe				Kompl.: erreichen, Verbalpartikel: Aspekt der Dauer
+出院		chu1yuan4		aus der Klinik entlassen werden
+书店		shu1dian4		Buchhandlung (ZW 家)
+出版		chu1ban3		erscheinen, herauskommen, etw. herausbringen, veröffentlichen, herausgeben
+运气		yun4qi			Schicksal, Glück
+邻居		lin2ju1			Nachbar/in
+剪子		jian3zi			Schere (ZW 个)
+小时		xiao3shi2		Stunde (ZW 个)
+刚刚		gang1gang1		gerade, eben
+电话		dian4hua4		Telefon
+清楚		qing1chu		deutlich, klar (sein)
+法国		fa3guo2			Frankreich
+定		ding4			etw. bestimmen, festsetzen
+日期		ri4qi1			Termin, Zeitpunkt, Datum
+可能		ke3neng2		vielleicht, möglicherweise
+打电话	da3dian4hua4	einen Anruf machen, telefonieren
+记住		ji4zhu4			sich etw. merken, einprägen
+之间		zhi1jian1		zwischen, zwischen A und B
+打工		da3gong1		jobben
+替		ti4				jn. vertreten, ersetzen
+半夜		ban4ye4			mitten in der Nacht, Mitternacht
+元		yuan2			Yuan, Währungsgrundeinheit
+圆		yuan2			Yuan, Währungseinheit (Schreibweise auf Banknoten)
+角		jiao3			Jiao, ein Zehntel Yuan
+分		fen1			Fen, ein Hundertstel Yuan, sich teilen in, etw. (unter)teilen
+块		kuai4			Kuai, umgangssprachlich für Yuan, ZW: Stück
+航空		hang2kong1		Luftfahrt, Flugverkehr
+茉莉		mo4li4			Jasmin
+花茶		hua1cha2		mit Blüten versetzter Tee
+闻		wen2			etw. riechen, etw. hören (nur Schriftsprache)
+零钱		ling2qian2		Kleingeld
+今年		jin1nian2		dieses Jahr, in diesem Jahr
+年纪		nian2ji4		Alter
+单位		dan1wei4		(Arbeits-)Einheit, Arbeitsstelle
+退休		tui4xiu1		in Rente gehen, in Pension gehen
+象		xiang4			jm. ähneln, aussehen als ob, scheinen
+孙子		sun1zi			Enkel
+阿姨		a1yi2			Tante,Schwester der Mutter, Kindermädchen,k indl. Anrede gegenüber jungen Frauen
+习惯		xi2guan4		Gewohnheit, sich gewöhnen an, gewohnt sein an
+岁数		sui4shu			Alter, Lebensjahr
+去世		qu4shi4			sterben (euphemistisch)
+城市		cheng2shi4		Stadt (ZW 个)
+比		bi3				im Vergleich/Verhältnis zu, etw. vergleichen, gegenüberstellen, sich messen an/mit
+更		geng4			noch, mehr (Komparativ)
+最		zui4			äußerst, meist, höchst (Superlativ)
+重庆		chong2qing4		Chongqing, Stadt in Zentralchina
+世界		shi4jie4		Welt
+河流		he2liu2			Fluss, Strom (ZW 条)
+黑龙江	hei1long2jiang1	Provinz Heilongjiang
+黄河		Huang2he2		Huanghe, Gelber Fluss
+长江		chang2jiang1	Yangzijiang (Fluss)
+湖		hu2				See (ZW 个)
+从…起	cong2...qi3		von... an, ab, seit (Zeitpunkt)
+班		ban1			Klasse, (Lern-)Gruppe, Team (ZW 个), ZW für Autos, Flugzeuge
+虽然		sui1ran2		obwohl, obgleich
+节		jie2			ZW u.a. für (Unterrichts-)Stunden
+语言		yu3yan2			Sprache (ZW 种)
+实验室	shi2yan4shi4	Labor (ZW 间)
+对话		dui4hua4		Dialog, Konversation(sunterricht)
+大家		da4jia1			alle (Pronomen)
+发音		fa1yin1			Aussprache
+四声		si4sheng1		die vier Töne des Hochchinesischen
+第		di4				Präfix für Ordnungszahlen
+或者		huo4zhe3		oder (in Aussagen)
+刚才		gang1cai2		soeben, eben, gerade
+寄		ji4				etw. schicken (per Post), anweisen
+喂		wei4			Hallo!, am Telefon
+喂		wei				He!
+手机		shou3ji1		Handy (ZW 个)
+服务员	fu2wu4yuan2		Service-, Dienstpersonal
+整理		zheng3li3		etw. ordnen, sortieren, aufräumen
+汇钱		hui4qian2		Geld überweisen
+奖学金	jiang3xue2jin1	Stipendium (ZW 份)
+正		zheng4			gerade, eben, jetzt gerade
+躺		tang3			liegen, sich hinlegen
+香蕉		xiang1jiao1		Banane (ZW 个)
+尝		chang2			etw. kosten, (ab-)schmecken, probieren
+蛋糕		dan4gao1		Kuchen (ZW 个)
+甜		tian2			süß (sein)
+本子		ben3zi			Heft (ZW 个)
+糟糕		zao1gao1		So ein Pech! Zu dumm! Verflixt! Schlimm! Verflucht!
+出		chu1			hinausgehen, herauskommen, kommen/gehen aus (mit Komplement der Richtung)
+洗衣店	xi3yi1dian4		Wäscherei (ZW 家)
+取		qu3				etw. holen, abholen
+树		shu4			Baum (ZW 棵)
+爬		pa2				klettern auf, kriechen
+房子		fang2zi			Haus, Gebäude (ZW 所, 座)
+帮忙		bang1mang2		helfen
+搬		ban1			umziehen, etw. tragen, transportieren, umstellen
+箱子		xiang1zi		Koffer, Kiste (ZW 个)
+出差		chu1chai1		dienstlich verreisen, eine Dienstreise machen
+放假		fang4jia4		Ferien haben/machen, frei haben
+房租		fang2zu1		(Wohnungs-)Miete
+马克		ma3ke4			(deutsche) Mark
+加		jia1			etw. hinzufügen, addieren, plus
+水电费	shui3dian4fei4	Strom- und Wasserkosten
+秋天		qiu1tian1		Herbst
+挣钱		zheng4qian2		Geld verdienen
+准备		zhun3bei4		etw. vorbereiten, planen, vorhaben
+搬家		ban1jia1		umziehen
+离		li2				entfernt von
+远		yuan3			weit, fern (sein)
+纸		zhi3			Papier (ZW 张 Blatt)
+地址		di4zhi3			Adresse (ZW 个)
+姓名		xing4ming2		Name,Familien- und persönlicher Name
+号码		hao4ma3			Nummer (ZW 个)
+记		ji4				etw. notieren, aufschreiben
+帮		bang1			jm. helfen, jn. unterstützen etw. zu tun
+戴		dai4			etw. aufsetzen, tragen (Brille, Hut etc.)
+耳机		er3ji1			Kopfhörer (ZW 副)
+副		fu4				ZW u.a. für Kopfhörer, Brillen
+录音		lu4yin1			eine (Ton-)Aufnahme machen
+录音机	lu4yin1ji1		Tonband-, Aufnahmegerät (ZW 台)
+朝鲜		chao2xian1		Korea
+放		fang4			etw. setzen, stellen, legen, etw. stellen, legen auf/in etc.
+复习		fu4xi2			etw. wiederholen, Wiederholung
+部首		bu4shou3		Radikal (ZW 个)
+应该		ying1gai1		sollen, verpflichtet sein
+粉笔		fen3bi3			Kreide (ZW 枝)
+错误		cuo4wu4			Fehler, Irrtum (ZW 个)
+眼镜		yan3jing4		Brille (ZW 副)
+只好		zhi3hao3		nichts anderes übrigbleiben, als..., müssen, gezwungen sein zu..., es bleibt einem nichts anderes übrig als
+三点水	san1dian3shui3	das Radikal (drei Wassertropfen: 氵)
+旁		pang2			Radikal (seitlich)
+言字旁	yan2zi4pang2	das Radikal (Rede: 讠)
+摇		yao2			etw. schütteln, schwingen
+渐渐		jian4jian4		allmählich
+收		shou1			etw. entgegennehmen, annehmen, erhalten, kassieren, hereinholen
+演员		yan3yuan2		Schauspieler/in
+客气		ke4qi			höflich, förmlich, bescheiden (sein)
+您贵姓	nin2gui4xing4	Wie lautet Ihr werter Name? Mit wem habe ich die Ehre?
+认为		ren4wei2		glauben, vermuten, meinen, der Ansicht sein, dass...
+旧		jiu4			alt (sein) (nicht für Personen)
+摩托车	mo2tuo1che1		Moped, Motorrad (ZW 辆)
+孙女		sun1nv3			Enkelin
+中学		zhong1xue2		Mittelschule (Z: 个, 所)
+别人		bie2re2n		ein anderer, die anderen, die Leute
+冰箱		bing1xiang1		Kühlschrank (ZW 台)
+遇见		yu4jian4		jm. begegnen, jn. zufällig treffen
+春天		chun1tian1		Frühling
+裤子		ku4zi			Hose (ZW 条)
+内衣		nei4yi1			Unterwäsche (ZW 件)
+衬衫		chen4shan1		Hemd, Bluse (ZW 件)
+南京		nan2jing1		Nanjing
+工厂		gong1chang3		Fabrik, Werkstatt (ZW 家, 个)
+来信		lai2xin4		hierher schreiben, einen Brief hierher senden, eingetroffener Brief (ZW 封)
+亲爱的	qin1ai4de		liebe/r,briefliche Anrede: Familie
+困难		kun4nan			hart, schwierig (sein), (finanzielle) Schwierigkeiten
+快餐店	kuai4can1dian4	Schnellimbiss, -restaurant (ZW 家)
+食品		shi2pin3		Lebens-, Nahrungsmittel
+健康		jian4kang1		Gesundheit
+问…好	wen4...hao3		jn. grüßen lassen
+句		ju4				ZW für Sätze
+东		dong1			Osten
+南		nan2			Süden
+西		xi1				Westen
+北		bei3			Norden
+方		fang1			Himmelsrichtung
+后天		hou4tian1		übermorgen
+地图册	di4tu2ce4		Atlas (ZW 本)
+脑子		nao3zi			Hirn, Denkvermögen, Gedächtnis
+一直		yi1zhi2			ununterbrochen, die ganze Zeit, immer, stets, geradeaus
+的确		di2que4			wirklich, tatsächlich
+简单		jian3dan1		einfach, gewöhnlich, alltäglich (sein)
+注意		zhu4yi4			auf etw. achten, aufpassen
+最好		zui4hao3		am besten, gut daran tun...
+有名		you3ming2		berühmt, namhaft, bekannt (sein)
+麦当劳	mai4dang1lao2	McDonald's (Imbisskette)
+往		wang4			(in) Richtung (auf), nach (konkrete Dinge)
+向		xiang4			(in) Richtung (auf), nach (Abstrakta wie Erfolg oder Zukunft)
+拐		guai3			abbiegen nach, einbiegen
+转		zhuan3			abbiegen nach, einbiegen, wenden, wechseln
+中餐		zhong1can1		die chinesische Küche
+西餐		xi1can1			westliche/europäische Küche
+慕尼黑	mu4ni2hei1		München
+套		tao4			Satz, Garnitur, ZW für Wohnungen
+另外		ling4wai4		außerdem, überdies, andere/s
+房东		fang2dong1		Vermieter/in, Hausbesitzer/in
+租		zu1				etw. mieten, pachten
+劲儿		jin4er			Kraft, Energie, Elan, Schwung
+家具		jia1ju4			Möbel, Hausrat (ZW 件, 套)
+停		ting2			anhalten, parken, Auto, Rad
+警察		jing3cha2		Polizei, Polizist
+院子		yuan4zi			Hof (ZW 个)
+发现		fa1xian4		etw. entdecken, finden, entdecken, dass..., Entdeckung (ZW 个)
+后门		hou4men2		Hintertür (ZW 扇)
+锁		suo3			etw. verschließen, abschließen, Schloss (ZW 把)
+恐怕		kong3pa4		ich fürchte, dass...
+抬		tai2			etw. (auf-, hoch-)heben, tragen
+钥匙		yao4shi			Schlüssel (ZW 把)
+浴室		yu4shi4			Badezimmer (ZW 间)
+动		dong4			sich bewegen, rühren, etw. bewegen, woanders hinstellen
+书房		shu1fang2		Arbeitszimmer, Studierzimmer (ZW 间)
+一辈子	yi2bei4zi		das ganze Leben
+部分		bu4fen4			Teil, Anteil
+屋子		wu1zi			Zimmer (ZW 间)
+起		qi3				sich leisten können zu kaufen/mieten etc., Komplement der Möglichkeit
+请客		qing3ke4		Gäste einladen, Gäste haben
+菜		cai4			Speise, Gericht (ZW 个)
+把		ba3				Präp. zur Voranstellung des Objekts
+机场		ji1chang3		Flughafen (ZW 座)
+兑换		dui4huan4		(Geld) umwechseln, umtauschen
+外币		wai4bi4			ausländische Währung, Devisen
+银行		yin2hang2		Bank (ZW 家，座)
+欧元		ou1yuan2		Euro, europäische Währung
+人民币	ren2min2bi4		Renminbi, Währung der VR China
+牌价		pai2jia4		Wechselkurs, Listenpreis
+营业员	ying2ye4yuan2	(kaufmännische/r) Angestellte/r
+填写		tian2xie3		etw. ausfüllen
+单子		dan1zi			Formular, Liste (ZW 张)
+票子		piao4zi			Geldschein, Banknote (ZW 张)
+支票		zhi1piao4		Scheck (ZW 张)
+报案		bao4an4			Anzeige erstatten, eine Straftat melden
+海关		hai3guan1		Zoll
+钱包		qian2bao1		Portemonnaie, Brieftasche (ZW 个)
+风		feng1			Wind
+吹		chui1			blasen, wehen
+倒		dao3			fallen, stürzen
+可怕		ke3pa4			furchtbar, schrecklich, anstrengend
+雪		xue3			Schnee
+气候		qi4hou4			Klima
+打扫		da3sao3			etw. fegen
+换成		huan4cheng2		etw. umtauschen, ersetzen, konvertieren
+毛		mao2			Mao, umgangssprachlich für Jiao (Zehntel Yuan)
+行李		xing2li			Gepäck (ZW 件)
+箱子		xiang1zi		Koffer, Kiste (ZW 个)
+门口		men2kou3		Eingang
+警察		jing3cha2		Polizei, Polizist
+糊涂		hu2tu			konfus, wirr, durcheinander, unklar (sein)
+夜里		ye4li			in der Nacht, nachts
+窗户		chuang1hu		Fenster
+棵		ke1				ZW für Pflanzen
+老树		lao3shu4		alter Baum
+春天		chun1tian1		Frühling
+秋天		qiu1tian1		Herbst
+院子		yuan4zi			Hof (ZW 个)
+被		bei4			Passiv-Markierer
+叫		jiao4			Passiv-Markierer
+让		rang4			Passiv-Markierer
+瓶		ping2			ZW für Getränke (Flasche)
+哈哈		ha1ha1			Haha!
+怨		yuan4			jm. die Schuld geben, jn. tadeln
+急		ji2				hastig, geschwind, eilig, nervös
+看病		kan4bing4		zum Arzt gehen, einen Arzt aufsuchen
+撞		zhuang4			stoßen, stoßen an, gegen
+伤		shang1			sich verletzt haben, jn. verletzen, Verletzung, Wunde (ZW 個)
+轻		qing1			geringfügig, leicht (sein)
+内伤		nei4shang1		innere Verletzungen
+卡车		ka3che1			Lastkraftwagen, Laster (ZW 辆)
+弄		nong4			spielen mit, etw. machen, tun
+越...越	yue4...yue4		je (mehr) ... desto
+长		zhang3			wachsen
+越来越	yue4lai2yue4	immer mehr/besser etc.
+算		suan4			rechnen, rechnen zu, zählen zu
+出事		chu1shi4		einen Unfall haben, von einem Unglück betroffen sein
+理发		li3fa4			die Haare schneiden, frisieren
+理发店	li3fa4dian4		Frisiersalon (ZW 家)
+理发师	li3fa4shi1		Friseur/in
+剪		jian3			etw. schneiden
+短		duan3			kurz (sein)
+别		bie2			nicht (bei verneinten Aufforderungen)
+头发		tou2fa			Kopfhaar
+过		guo				Verbalpartikel: Aspekt unbest. Vergangenheit
+次		ci4				für Verben: ...mal
+回		hui2			für Verben: ...mal (Umgangssprache)
+一下		yi2xia4			für Verben: ...mal kurz
+编		bian4			für Verben: ...mal (durch-)
+趟		tang4			für Verben: ...mal (fahren, gehen)
+声		sheng1			für Verben: ...mal (sagen, rufen)
+眼		yan3			für Verben wie 看: Blick
+东京		dong1jing1		Tokio
+政治		zheng4zhi4		Politik
+一...就	yi1...jiu4		sobald...dann
+情况		qing2kuang4		Lage, Verhältnisse, Umstände (ZW 个)
+吵		chao3			lärmen, jn. stören, sich mit jm. streiten
+了解		liao3jie3		etw. verstehen, begreifen, Verständnis
+对...了解		dui4...liao3jie3	über etwas im Bilde sein, informiert sein
+社会		she4hui4		Gesellschaft
+文章		wen2zhang1		Aufsatz, Artikel (ZW 篇)
+介绍		jie4shao4		jn./etw. vorstellen, etw. empfehlen
+节目		jie2mu4			Programm, (Programm-)Nummer
+发展		fa1zhan3		wachsen, sich/etw. entwickeln
+进行		jin4xing2		etw. ausführen, durchführen
+改革		gai3ge2			etw. reformieren, Reform
+韩国		han2guo2		Südkorea
+国家		guo2jia1		Land, Staat, Nation (ZW 个)
+前年		qian2nian2		vorletztes Jahr
+欧洲		ou1zhou1		Europa
+醉		zui4			betrunken, berauscht (sein)
+百闻不如一见	bai3wen2bu4ru2yi2jian4	einmal sehen ist besser als hundertmal hören
+说定了	shuo1ding4le	Abgemacht!
+礼貌		li3mao4			Höflichkeit, Anstand
+让		rang4			jn. veranlassen / jm. erlauben zu tun
+劝		quan4			jn. ermahnen / jm. raten zu tun
+叫		jiao4			jn. veranlassen / bitten zu tun
+让座		rang4zuo4		jn. einen Sitzplatz anbieten
+唉		ai4				ach (Unzufriedenheit, Erstaunen)
+几乎		ji1hu1			fast, beinahe, ungefähr, gegen
+跌		die1			fallen, hinfallen, stürzen
+您先请	nin2xian1qing3	Bitte nach Ihnen!
+教授		jiao4shou4		Professor/in
+请慢用	qing3man4yong4	Bitte lassen Sie sich Zeit! (Beim Essen)
+肚子		du4zi			Bauch (ZW 个)
+待		dai1			sich aufhalten (mit Zeitdauerangabe)
+慢走		man4zou3		Kommen Sie gut nach Hause!
+年级		nian2ji2		Jahrgang, Schul-, Studienjahr (ZW 个)
+学年		xue2nian2		Schul-, Studienjahr (ohne ZW)
+分		fen1			sich teilen in, etw. (unter)teilen
+冬季		dong1ji4		Winter
+夏季		xia4ji4			Sommer
+考上		kao3shang4		die Aufnahmeprüfung zu ... bestehen
+入学		ru4xue2			eingeschult werden
+专业		zhuan1ye4		Fach, Hauptfach, Fachgebiet
+古代		gu3dai4			Altertum
+选		xuan4			etw. wählen, jn. wählen
+许		xu3				dürfen, jm. erlauben zu tun
+明年		ming2nian2		nächstes Jahr
