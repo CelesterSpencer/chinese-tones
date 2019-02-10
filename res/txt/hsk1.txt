@@ -1,0 +1,151 @@
+HSK 1
+爱		ai4				love
+八		ba1				eight
+爸爸		ba4ba5			Dad
+杯子		bei1zi5			cup; glass
+北京		bei3jing1		Beijing
+本		ben3			measure word for books
+不客气	bu2ke4qi5		you're welcome; don't be polite
+不		bu4				no; not
+菜		cai4			dish (type of food); vegetables
+茶		cha2			tea
+吃		chi1			eat
+出租车	chu1zu1che1		taxi; cab
+打电话	da3dian4hua4	make a phone call
+大		da4				big; large
+的		de5				indicates possession, like adding 's to a noun
+点		dian3			a dot; a little; o'clock
+电脑		dian4nao3		computer
+电视		dian4shi4		television; TV
+电影		dian4ying3		movie; film
+东西		dong1xi5		things; stuff
+都		dou1			all; both
+读		du2				to read; to study
+对不起	dui4bu5qi3		sorry
+多		duo1			many
+多少		duo1shao5		how much?; how many?
+儿子		er2zi5			son
+二		er4				two
+饭店		fan4dian4		restaurant; hotel
+飞机		fei1ji1			airplane
+分钟		fen1zhong1		minute; (measure word for time)
+高兴		gao1xing4		happy; glad
+个		ge5				general measure word
+工作		gong1zuo4		work; a job
+狗		gou3			dog
+汉语		han4yu3			Chinese language
+好		hao3			good
+号		hao4			number; day of a month
+喝		he1				to drink
+和		he2				and; with
+很		hen3			very; quite
+后面		hou4mian5		back; behind
+回		hui2			to return; to reply; to go back
+会		hui4			know how to
+几		ji3				how many; several; a few
+家		jia1			family; home
+叫		jiao4			to be called
+今天		jin1tian1		today
+九		jiu3			nine
+开		kai1			to open; to start; to operate (a vehicle)
+看		kan4			see; look at; to watch
+看见		kan4jian4		see; catch sight of
+块		kuai4			lump; piece; sum of money
+来		lai2			come; arrive; ever since; next
+老师		lao3shi1		teacher
+了		le5				indicates a completed or finished action
+冷		leng3			cold
+里		li3				inside; Chinese mile (~.5 km)
+六		liu4			six
+妈妈		ma1ma5			mom; mum
+吗		ma5				indicates a yes/no question (added to a statement)
+买		mai3			to buy
+猫		mao1			cat
+没关系	mei2guan1xi5	it doesn't matter; never mind
+没有		mei2you3		not have; there is not
+米饭		mi3fan4			(cooked) rice
+明天		ming2tian1		tomorrow
+名字		ming2zi5		name
+哪		na3				which; how
+哪儿		na3r5			where? (Beijing accent)
+那		na4				that; then
+呢		ne5				indicates a question; how about...?;
+能		neng2			can; be able
+你		ni3				you (singular)
+年		nian2			year
+女儿		nv3er2			daughter
+朋友		peng2you5		friend
+漂亮		piao4liang5		pretty; beautiful
+苹果		ping2guo3		apple
+七		qi1				seven
+钱		qian2			money; coin
+前面		qian2mian4		in front
+请		qing3			please; invite; to treat someone to something
+去		qu4				go; to leave
+热		re4				heat; hot
+人		ren2			person; man; people
+认识		ren4shi5		recognize; know (a person)
+三		san1			three
+商店		shang1dian4		shop; store
+上		shang4			above; up
+上午		shang4wu3		late morning (before noon)
+少		shao3			few; little
+谁		shei2			who
+什么		shen2me5		what? (replaces the noun to turn a statement into a question)
+十		shi2			ten
+时候		shi2hou5		time
+是		shi4			be; is; are; am
+书		shu1			book; letter
+水		shui3			water
+水果		shui3guo3		fruit
+睡觉		shui4jiao4		to sleep; go to bed
+说		shuo1			speak
+四		si4				four
+岁		sui4			years old; age
+他		ta1				he; him
+她		ta1				she
+太		tai4			too (much)
+天气		tian1qi4		weather
+听		ting1			listen; hear
+同学		tong2xue2		fellow student; schoolmate
+喂		wei4			hello (on the phone)
+我		wo3				I; me
+我们		wo3men5			we; us
+五		wu3				five
+喜欢		xi3huan5		to like
+下		xia4			fall; below
+下午		xia4wu3			afternoon
+下雨		xia4yu3			to rain
+先生		xian1sheng5		Mr.; Sir
+现在		xian4zai4		now
+想		xiang3			think; believe; suppose; would like to
+小		xiao3			small; young
+小姐		xiao3jie5		young lady; miss; Ms.
+些		xie1			some; few; several
+写		xie3			to write; to compose
+谢谢		xie4xie5		thank you
+星期		xing1qi1		week
+学生		xue2sheng5		student
+学习		xue2xi2			learn; to study
+学校		xue2xiao4		school
+一		yi1				one; once; a
+衣服		yi1fu5			clothes
+医生		yi1sheng1		doctor
+医院		yi1yuan4		hospital
+椅子		yi3zi5			chair
+一点儿	yi4dian3r5		a bit; a few
+有		you3			have
+月		yue4			moon; month
+在		zai4			at; on; in; indicates an action in progress
+再见		zai4jian4		goodbye; see you later
+怎么		zen3me5			how?
+怎么样	zen3me5yang4	how about?; how is/was it?
+这		zhe4			this
+中国		Zhong1guo2		China
+中午		zhong1wu3		noon; midday
+住		zhu4			to live; reside; to stop
+桌子		zhuo1zi5		table; desk
+字		zi4				letter; character
+昨天		zuo2tian1		yesterday
+做		zuo4			do; make
+坐		zuo4			sit

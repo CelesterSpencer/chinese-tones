@@ -1,0 +1,754 @@
+{
+    "name": "HSK 1",
+    "cards": [{
+        "hanzi": ["爱"],
+        "pinyin": ["ai"],
+        "tone": ["4"],
+        "trans": "love"
+    }, {
+        "hanzi": ["八"],
+        "pinyin": ["ba"],
+        "tone": ["1"],
+        "trans": "eight"
+    }, {
+        "hanzi": ["爸", "爸"],
+        "pinyin": ["ba", "ba"],
+        "tone": ["4", "5"],
+        "trans": "Dad"
+    }, {
+        "hanzi": ["杯", "子"],
+        "pinyin": ["bei", "zi"],
+        "tone": ["1", "5"],
+        "trans": "cup; glass"
+    }, {
+        "hanzi": ["北", "京"],
+        "pinyin": ["bei", "jing"],
+        "tone": ["3", "1"],
+        "trans": "Beijing"
+    }, {
+        "hanzi": ["本"],
+        "pinyin": ["ben"],
+        "tone": ["3"],
+        "trans": "measure word for books"
+    }, {
+        "hanzi": ["不", "客", "气"],
+        "pinyin": ["bu", "ke", "qi"],
+        "tone": ["2", "4", "5"],
+        "trans": "you're welcome; don't be polite"
+    }, {
+        "hanzi": ["不"],
+        "pinyin": ["bu"],
+        "tone": ["4"],
+        "trans": "no; not"
+    }, {
+        "hanzi": ["菜"],
+        "pinyin": ["cai"],
+        "tone": ["4"],
+        "trans": "dish (type of food); vegetables"
+    }, {
+        "hanzi": ["茶"],
+        "pinyin": ["cha"],
+        "tone": ["2"],
+        "trans": "tea"
+    }, {
+        "hanzi": ["吃"],
+        "pinyin": ["chi"],
+        "tone": ["1"],
+        "trans": "eat"
+    }, {
+        "hanzi": ["出", "租", "车"],
+        "pinyin": ["chu", "zu", "che"],
+        "tone": ["1", "1", "1"],
+        "trans": "taxi; cab"
+    }, {
+        "hanzi": ["打", "电", "话"],
+        "pinyin": ["da", "dian", "hua"],
+        "tone": ["3", "4", "4"],
+        "trans": "make a phone call"
+    }, {
+        "hanzi": ["大"],
+        "pinyin": ["da"],
+        "tone": ["4"],
+        "trans": "big; large"
+    }, {
+        "hanzi": ["的"],
+        "pinyin": ["de"],
+        "tone": ["5"],
+        "trans": "indicates possession, like adding 's to a noun"
+    }, {
+        "hanzi": ["点"],
+        "pinyin": ["dian"],
+        "tone": ["3"],
+        "trans": "a dot; a little; o'clock"
+    }, {
+        "hanzi": ["电", "脑"],
+        "pinyin": ["dian", "nao"],
+        "tone": ["4", "3"],
+        "trans": "computer"
+    }, {
+        "hanzi": ["电", "视"],
+        "pinyin": ["dian", "shi"],
+        "tone": ["4", "4"],
+        "trans": "television; TV"
+    }, {
+        "hanzi": ["电", "影"],
+        "pinyin": ["dian", "ying"],
+        "tone": ["4", "3"],
+        "trans": "movie; film"
+    }, {
+        "hanzi": ["东", "西"],
+        "pinyin": ["dong", "xi"],
+        "tone": ["1", "5"],
+        "trans": "things; stuff"
+    }, {
+        "hanzi": ["都"],
+        "pinyin": ["dou"],
+        "tone": ["1"],
+        "trans": "all; both"
+    }, {
+        "hanzi": ["读"],
+        "pinyin": ["du"],
+        "tone": ["2"],
+        "trans": "to read; to study"
+    }, {
+        "hanzi": ["对", "不", "起"],
+        "pinyin": ["dui", "bu", "qi"],
+        "tone": ["4", "5", "3"],
+        "trans": "sorry"
+    }, {
+        "hanzi": ["多"],
+        "pinyin": ["duo"],
+        "tone": ["1"],
+        "trans": "many"
+    }, {
+        "hanzi": ["多", "少"],
+        "pinyin": ["duo", "shao"],
+        "tone": ["1", "5"],
+        "trans": "how much?; how many?"
+    }, {
+        "hanzi": ["儿", "子"],
+        "pinyin": ["er", "zi"],
+        "tone": ["2", "5"],
+        "trans": "son"
+    }, {
+        "hanzi": ["二"],
+        "pinyin": ["er"],
+        "tone": ["4"],
+        "trans": "two"
+    }, {
+        "hanzi": ["饭", "店"],
+        "pinyin": ["fan", "dian"],
+        "tone": ["4", "4"],
+        "trans": "restaurant; hotel"
+    }, {
+        "hanzi": ["飞", "机"],
+        "pinyin": ["fei", "ji"],
+        "tone": ["1", "1"],
+        "trans": "airplane"
+    }, {
+        "hanzi": ["分", "钟"],
+        "pinyin": ["fen", "zhong"],
+        "tone": ["1", "1"],
+        "trans": "minute; (measure word for time)"
+    }, {
+        "hanzi": ["高", "兴"],
+        "pinyin": ["gao", "xing"],
+        "tone": ["1", "4"],
+        "trans": "happy; glad"
+    }, {
+        "hanzi": ["个"],
+        "pinyin": ["ge"],
+        "tone": ["5"],
+        "trans": "general measure word"
+    }, {
+        "hanzi": ["工", "作"],
+        "pinyin": ["gong", "zuo"],
+        "tone": ["1", "4"],
+        "trans": "work; a job"
+    }, {
+        "hanzi": ["狗"],
+        "pinyin": ["gou"],
+        "tone": ["3"],
+        "trans": "dog"
+    }, {
+        "hanzi": ["汉", "语"],
+        "pinyin": ["han", "yu"],
+        "tone": ["4", "3"],
+        "trans": "Chinese language"
+    }, {
+        "hanzi": ["好"],
+        "pinyin": ["hao"],
+        "tone": ["3"],
+        "trans": "good"
+    }, {
+        "hanzi": ["号"],
+        "pinyin": ["hao"],
+        "tone": ["4"],
+        "trans": "number; day of a month"
+    }, {
+        "hanzi": ["喝"],
+        "pinyin": ["he"],
+        "tone": ["1"],
+        "trans": "to drink"
+    }, {
+        "hanzi": ["和"],
+        "pinyin": ["he"],
+        "tone": ["2"],
+        "trans": "and; with"
+    }, {
+        "hanzi": ["很"],
+        "pinyin": ["hen"],
+        "tone": ["3"],
+        "trans": "very; quite"
+    }, {
+        "hanzi": ["后", "面"],
+        "pinyin": ["hou", "mian"],
+        "tone": ["4", "5"],
+        "trans": "back; behind"
+    }, {
+        "hanzi": ["回"],
+        "pinyin": ["hui"],
+        "tone": ["2"],
+        "trans": "to return; to reply; to go back"
+    }, {
+        "hanzi": ["会"],
+        "pinyin": ["hui"],
+        "tone": ["4"],
+        "trans": "know how to"
+    }, {
+        "hanzi": ["几"],
+        "pinyin": ["ji"],
+        "tone": ["3"],
+        "trans": "how many; several; a few"
+    }, {
+        "hanzi": ["家"],
+        "pinyin": ["jia"],
+        "tone": ["1"],
+        "trans": "family; home"
+    }, {
+        "hanzi": ["叫"],
+        "pinyin": ["jiao"],
+        "tone": ["4"],
+        "trans": "to be called"
+    }, {
+        "hanzi": ["今", "天"],
+        "pinyin": ["jin", "tian"],
+        "tone": ["1", "1"],
+        "trans": "today"
+    }, {
+        "hanzi": ["九"],
+        "pinyin": ["jiu"],
+        "tone": ["3"],
+        "trans": "nine"
+    }, {
+        "hanzi": ["开"],
+        "pinyin": ["kai"],
+        "tone": ["1"],
+        "trans": "to open; to start; to operate (a vehicle)"
+    }, {
+        "hanzi": ["看"],
+        "pinyin": ["kan"],
+        "tone": ["4"],
+        "trans": "see; look at; to watch"
+    }, {
+        "hanzi": ["看", "见"],
+        "pinyin": ["kan", "jian"],
+        "tone": ["4", "4"],
+        "trans": "see; catch sight of"
+    }, {
+        "hanzi": ["块"],
+        "pinyin": ["kuai"],
+        "tone": ["4"],
+        "trans": "lump; piece; sum of money"
+    }, {
+        "hanzi": ["来"],
+        "pinyin": ["lai"],
+        "tone": ["2"],
+        "trans": "come; arrive; ever since; next"
+    }, {
+        "hanzi": ["老", "师"],
+        "pinyin": ["lao", "shi"],
+        "tone": ["3", "1"],
+        "trans": "teacher"
+    }, {
+        "hanzi": ["了"],
+        "pinyin": ["le"],
+        "tone": ["5"],
+        "trans": "indicates a completed or finished action"
+    }, {
+        "hanzi": ["冷"],
+        "pinyin": ["leng"],
+        "tone": ["3"],
+        "trans": "cold"
+    }, {
+        "hanzi": ["里"],
+        "pinyin": ["li"],
+        "tone": ["3"],
+        "trans": "inside; Chinese mile (~.5 km)"
+    }, {
+        "hanzi": ["六"],
+        "pinyin": ["liu"],
+        "tone": ["4"],
+        "trans": "six"
+    }, {
+        "hanzi": ["妈", "妈"],
+        "pinyin": ["ma", "ma"],
+        "tone": ["1", "5"],
+        "trans": "mom; mum"
+    }, {
+        "hanzi": ["吗"],
+        "pinyin": ["ma"],
+        "tone": ["5"],
+        "trans": "indicates a yes/no question (added to a statement)"
+    }, {
+        "hanzi": ["买"],
+        "pinyin": ["mai"],
+        "tone": ["3"],
+        "trans": "to buy"
+    }, {
+        "hanzi": ["猫"],
+        "pinyin": ["mao"],
+        "tone": ["1"],
+        "trans": "cat"
+    }, {
+        "hanzi": ["没", "关", "系"],
+        "pinyin": ["mei", "guan", "xi"],
+        "tone": ["2", "1", "5"],
+        "trans": "it doesn't matter; never mind"
+    }, {
+        "hanzi": ["没", "有"],
+        "pinyin": ["mei", "you"],
+        "tone": ["2", "3"],
+        "trans": "not have; there is not"
+    }, {
+        "hanzi": ["米", "饭"],
+        "pinyin": ["mi", "fan"],
+        "tone": ["3", "4"],
+        "trans": "(cooked) rice"
+    }, {
+        "hanzi": ["明", "天"],
+        "pinyin": ["ming", "tian"],
+        "tone": ["2", "1"],
+        "trans": "tomorrow"
+    }, {
+        "hanzi": ["名", "字"],
+        "pinyin": ["ming", "zi"],
+        "tone": ["2", "5"],
+        "trans": "name"
+    }, {
+        "hanzi": ["哪"],
+        "pinyin": ["na"],
+        "tone": ["3"],
+        "trans": "which; how"
+    }, {
+        "hanzi": ["哪", "儿"],
+        "pinyin": ["na", "r"],
+        "tone": ["3", "5"],
+        "trans": "where? (Beijing accent)"
+    }, {
+        "hanzi": ["那"],
+        "pinyin": ["na"],
+        "tone": ["4"],
+        "trans": "that; then"
+    }, {
+        "hanzi": ["呢"],
+        "pinyin": ["ne"],
+        "tone": ["5"],
+        "trans": "indicates a question; how about...?;"
+    }, {
+        "hanzi": ["能"],
+        "pinyin": ["neng"],
+        "tone": ["2"],
+        "trans": "can; be able"
+    }, {
+        "hanzi": ["你"],
+        "pinyin": ["ni"],
+        "tone": ["3"],
+        "trans": "you (singular)"
+    }, {
+        "hanzi": ["年"],
+        "pinyin": ["nian"],
+        "tone": ["2"],
+        "trans": "year"
+    }, {
+        "hanzi": ["女", "儿"],
+        "pinyin": ["nv", "er"],
+        "tone": ["3", "2"],
+        "trans": "daughter"
+    }, {
+        "hanzi": ["朋", "友"],
+        "pinyin": ["peng", "you"],
+        "tone": ["2", "5"],
+        "trans": "friend"
+    }, {
+        "hanzi": ["漂", "亮"],
+        "pinyin": ["piao", "liang"],
+        "tone": ["4", "5"],
+        "trans": "pretty; beautiful"
+    }, {
+        "hanzi": ["苹", "果"],
+        "pinyin": ["ping", "guo"],
+        "tone": ["2", "3"],
+        "trans": "apple"
+    }, {
+        "hanzi": ["七"],
+        "pinyin": ["qi"],
+        "tone": ["1"],
+        "trans": "seven"
+    }, {
+        "hanzi": ["钱"],
+        "pinyin": ["qian"],
+        "tone": ["2"],
+        "trans": "money; coin"
+    }, {
+        "hanzi": ["前", "面"],
+        "pinyin": ["qian", "mian"],
+        "tone": ["2", "4"],
+        "trans": "in front"
+    }, {
+        "hanzi": ["请"],
+        "pinyin": ["qing"],
+        "tone": ["3"],
+        "trans": "please; invite; to treat someone to something"
+    }, {
+        "hanzi": ["去"],
+        "pinyin": ["qu"],
+        "tone": ["4"],
+        "trans": "go; to leave"
+    }, {
+        "hanzi": ["热"],
+        "pinyin": ["re"],
+        "tone": ["4"],
+        "trans": "heat; hot"
+    }, {
+        "hanzi": ["人"],
+        "pinyin": ["ren"],
+        "tone": ["2"],
+        "trans": "person; man; people"
+    }, {
+        "hanzi": ["认", "识"],
+        "pinyin": ["ren", "shi"],
+        "tone": ["4", "5"],
+        "trans": "recognize; know (a person)"
+    }, {
+        "hanzi": ["三"],
+        "pinyin": ["san"],
+        "tone": ["1"],
+        "trans": "three"
+    }, {
+        "hanzi": ["商", "店"],
+        "pinyin": ["shang", "dian"],
+        "tone": ["1", "4"],
+        "trans": "shop; store"
+    }, {
+        "hanzi": ["上"],
+        "pinyin": ["shang"],
+        "tone": ["4"],
+        "trans": "above; up"
+    }, {
+        "hanzi": ["上", "午"],
+        "pinyin": ["shang", "wu"],
+        "tone": ["4", "3"],
+        "trans": "late morning (before noon)"
+    }, {
+        "hanzi": ["少"],
+        "pinyin": ["shao"],
+        "tone": ["3"],
+        "trans": "few; little"
+    }, {
+        "hanzi": ["谁"],
+        "pinyin": ["shei"],
+        "tone": ["2"],
+        "trans": "who"
+    }, {
+        "hanzi": ["什", "么"],
+        "pinyin": ["shen", "me"],
+        "tone": ["2", "5"],
+        "trans": "what? (replaces the noun to turn a statement into a question)"
+    }, {
+        "hanzi": ["十"],
+        "pinyin": ["shi"],
+        "tone": ["2"],
+        "trans": "ten"
+    }, {
+        "hanzi": ["时", "候"],
+        "pinyin": ["shi", "hou"],
+        "tone": ["2", "5"],
+        "trans": "time"
+    }, {
+        "hanzi": ["是"],
+        "pinyin": ["shi"],
+        "tone": ["4"],
+        "trans": "be; is; are; am"
+    }, {
+        "hanzi": ["书"],
+        "pinyin": ["shu"],
+        "tone": ["1"],
+        "trans": "book; letter"
+    }, {
+        "hanzi": ["水"],
+        "pinyin": ["shui"],
+        "tone": ["3"],
+        "trans": "water"
+    }, {
+        "hanzi": ["水", "果"],
+        "pinyin": ["shui", "guo"],
+        "tone": ["3", "3"],
+        "trans": "fruit"
+    }, {
+        "hanzi": ["睡", "觉"],
+        "pinyin": ["shui", "jiao"],
+        "tone": ["4", "4"],
+        "trans": "to sleep; go to bed"
+    }, {
+        "hanzi": ["说"],
+        "pinyin": ["shuo"],
+        "tone": ["1"],
+        "trans": "speak"
+    }, {
+        "hanzi": ["四"],
+        "pinyin": ["si"],
+        "tone": ["4"],
+        "trans": "four"
+    }, {
+        "hanzi": ["岁"],
+        "pinyin": ["sui"],
+        "tone": ["4"],
+        "trans": "years old; age"
+    }, {
+        "hanzi": ["他"],
+        "pinyin": ["ta"],
+        "tone": ["1"],
+        "trans": "he; him"
+    }, {
+        "hanzi": ["她"],
+        "pinyin": ["ta"],
+        "tone": ["1"],
+        "trans": "she"
+    }, {
+        "hanzi": ["太"],
+        "pinyin": ["tai"],
+        "tone": ["4"],
+        "trans": "too (much)"
+    }, {
+        "hanzi": ["天", "气"],
+        "pinyin": ["tian", "qi"],
+        "tone": ["1", "4"],
+        "trans": "weather"
+    }, {
+        "hanzi": ["听"],
+        "pinyin": ["ting"],
+        "tone": ["1"],
+        "trans": "listen; hear"
+    }, {
+        "hanzi": ["同", "学"],
+        "pinyin": ["tong", "xue"],
+        "tone": ["2", "2"],
+        "trans": "fellow student; schoolmate"
+    }, {
+        "hanzi": ["喂"],
+        "pinyin": ["wei"],
+        "tone": ["4"],
+        "trans": "hello (on the phone)"
+    }, {
+        "hanzi": ["我"],
+        "pinyin": ["wo"],
+        "tone": ["3"],
+        "trans": "I; me"
+    }, {
+        "hanzi": ["我", "们"],
+        "pinyin": ["wo", "men"],
+        "tone": ["3", "5"],
+        "trans": "we; us"
+    }, {
+        "hanzi": ["五"],
+        "pinyin": ["wu"],
+        "tone": ["3"],
+        "trans": "five"
+    }, {
+        "hanzi": ["喜", "欢"],
+        "pinyin": ["xi", "huan"],
+        "tone": ["3", "5"],
+        "trans": "to like"
+    }, {
+        "hanzi": ["下"],
+        "pinyin": ["xia"],
+        "tone": ["4"],
+        "trans": "fall; below"
+    }, {
+        "hanzi": ["下", "午"],
+        "pinyin": ["xia", "wu"],
+        "tone": ["4", "3"],
+        "trans": "afternoon"
+    }, {
+        "hanzi": ["下", "雨"],
+        "pinyin": ["xia", "yu"],
+        "tone": ["4", "3"],
+        "trans": "to rain"
+    }, {
+        "hanzi": ["先", "生"],
+        "pinyin": ["xian", "sheng"],
+        "tone": ["1", "5"],
+        "trans": "Mr.; Sir"
+    }, {
+        "hanzi": ["现", "在"],
+        "pinyin": ["xian", "zai"],
+        "tone": ["4", "4"],
+        "trans": "now"
+    }, {
+        "hanzi": ["想"],
+        "pinyin": ["xiang"],
+        "tone": ["3"],
+        "trans": "think; believe; suppose; would like to"
+    }, {
+        "hanzi": ["小"],
+        "pinyin": ["xiao"],
+        "tone": ["3"],
+        "trans": "small; young"
+    }, {
+        "hanzi": ["小", "姐"],
+        "pinyin": ["xiao", "jie"],
+        "tone": ["3", "5"],
+        "trans": "young lady; miss; Ms."
+    }, {
+        "hanzi": ["些"],
+        "pinyin": ["xie"],
+        "tone": ["1"],
+        "trans": "some; few; several"
+    }, {
+        "hanzi": ["写"],
+        "pinyin": ["xie"],
+        "tone": ["3"],
+        "trans": "to write; to compose"
+    }, {
+        "hanzi": ["谢", "谢"],
+        "pinyin": ["xie", "xie"],
+        "tone": ["4", "5"],
+        "trans": "thank you"
+    }, {
+        "hanzi": ["星", "期"],
+        "pinyin": ["xing", "qi"],
+        "tone": ["1", "1"],
+        "trans": "week"
+    }, {
+        "hanzi": ["学", "生"],
+        "pinyin": ["xue", "sheng"],
+        "tone": ["2", "5"],
+        "trans": "student"
+    }, {
+        "hanzi": ["学", "习"],
+        "pinyin": ["xue", "xi"],
+        "tone": ["2", "2"],
+        "trans": "learn; to study"
+    }, {
+        "hanzi": ["学", "校"],
+        "pinyin": ["xue", "xiao"],
+        "tone": ["2", "4"],
+        "trans": "school"
+    }, {
+        "hanzi": ["一"],
+        "pinyin": ["yi"],
+        "tone": ["1"],
+        "trans": "one; once; a"
+    }, {
+        "hanzi": ["衣", "服"],
+        "pinyin": ["yi", "fu"],
+        "tone": ["1", "5"],
+        "trans": "clothes"
+    }, {
+        "hanzi": ["医", "生"],
+        "pinyin": ["yi", "sheng"],
+        "tone": ["1", "1"],
+        "trans": "doctor"
+    }, {
+        "hanzi": ["医", "院"],
+        "pinyin": ["yi", "yuan"],
+        "tone": ["1", "4"],
+        "trans": "hospital"
+    }, {
+        "hanzi": ["椅", "子"],
+        "pinyin": ["yi", "zi"],
+        "tone": ["3", "5"],
+        "trans": "chair"
+    }, {
+        "hanzi": ["一", "点", "儿"],
+        "pinyin": ["yi", "dian", "r"],
+        "tone": ["4", "3", "5"],
+        "trans": "a bit; a few"
+    }, {
+        "hanzi": ["有"],
+        "pinyin": ["you"],
+        "tone": ["3"],
+        "trans": "have"
+    }, {
+        "hanzi": ["月"],
+        "pinyin": ["yue"],
+        "tone": ["4"],
+        "trans": "moon; month"
+    }, {
+        "hanzi": ["在"],
+        "pinyin": ["zai"],
+        "tone": ["4"],
+        "trans": "at; on; in; indicates an action in progress"
+    }, {
+        "hanzi": ["再", "见"],
+        "pinyin": ["zai", "jian"],
+        "tone": ["4", "4"],
+        "trans": "goodbye; see you later"
+    }, {
+        "hanzi": ["怎", "么"],
+        "pinyin": ["zen", "me"],
+        "tone": ["3", "5"],
+        "trans": "how?"
+    }, {
+        "hanzi": ["怎", "么", "样"],
+        "pinyin": ["zen", "me", "yang"],
+        "tone": ["3", "5", "4"],
+        "trans": "how about?; how is/was it?"
+    }, {
+        "hanzi": ["这"],
+        "pinyin": ["zhe"],
+        "tone": ["4"],
+        "trans": "this"
+    }, {
+        "hanzi": ["中", "国"],
+        "pinyin": ["Zhong", "guo"],
+        "tone": ["1", "2"],
+        "trans": "China"
+    }, {
+        "hanzi": ["中", "午"],
+        "pinyin": ["zhong", "wu"],
+        "tone": ["1", "3"],
+        "trans": "noon; midday"
+    }, {
+        "hanzi": ["住"],
+        "pinyin": ["zhu"],
+        "tone": ["4"],
+        "trans": "to live; reside; to stop"
+    }, {
+        "hanzi": ["桌", "子"],
+        "pinyin": ["zhuo", "zi"],
+        "tone": ["1", "5"],
+        "trans": "table; desk"
+    }, {
+        "hanzi": ["字"],
+        "pinyin": ["zi"],
+        "tone": ["4"],
+        "trans": "letter; character"
+    }, {
+        "hanzi": ["昨", "天"],
+        "pinyin": ["zuo", "tian"],
+        "tone": ["2", "1"],
+        "trans": "yesterday"
+    }, {
+        "hanzi": ["做"],
+        "pinyin": ["zuo"],
+        "tone": ["4"],
+        "trans": "do; make"
+    }, {
+        "hanzi": ["坐"],
+        "pinyin": ["zuo"],
+        "tone": ["4"],
+        "trans": "sit"
+    }]
+}

@@ -1,0 +1,510 @@
+﻿Chinesisch für Deutsche 1
+这		zhe4			dies (hier), das (hier)
+是		shi4			sein (Bindewort)
+爸爸		ba4ba			Vater, Papa
+那		na4				das (da, dort)
+妈妈		ma1ma			Mutter, Mama
+姐姐		jie3jie			ältere Schwester
+和		he2				und, mit
+妹妹		mei4mei			jüngere Schwester
+哥哥		ge1ge			älterer Bruder
+弟弟		di4di			jüngerer Bruder
+爷爷		ye2ye			Großvater (väterlicherseits), Opa
+奶奶		nai3nai			Großmutter (väterlicherseits), Oma
+猫		mao1			Katze
+狗		gou3			Hund
+课文		ke4wen2			Text
+生词		sheng1ci2		neues Wort, neue Vokabel
+练习		lian4xi2		üben, Übung
+谁		shei2			wer?
+谁		shui2			wer?
+王		wang2			Wang (Familienname)
+先生		xian1sheng		Herr
+马		ma3				Ma (Familienname)
+小姐		xiao3jie		Fräulein
+毛		mao2			Mao (Familienname)
+太太		tai4tai			Ehefrau, verheiratete Frau
+什么		shen2me			was?
+图书馆	tu2shu1guan3	Bibliothek
+教室		jiao4shi4		Unterrichtsraum, Klassenzimmer
+李		li3				Li (Familienname)
+老师		lao3shi1		Lehrer/in
+学生		xue2sheng		Schüler/in, Student/in
+的		de				Attributpartikel
+书		shu1			Buch
+历史		li4shi3			Geschichte, Historie
+地理		di4li3			Geographie, Erdkunde
+英文		ying1wen2		die englische Sprache
+词典		ci2dian3		Wörterbuch
+德文		de2wen2			die deutsche Sprache
+日文		ri4wen2			die japanische Sprache
+系		xi4				Seminar, Abteilung
+中文		zhong1wen2		die chinesische Sprache
+秘书		mi4shu1			Sekretär/in
+哦		o4				ah, oh, ach
+我		wo3				ich
+你		ni3				du, Sie
+您		nin2			Sie
+他		ta1				er
+她		ta1				sie
+它		ta1				er, sie, es (Tiere und Dinge)
+牠		ta1				er, sie, es (Tiere und Dinge)
+我们		wo3men			wir
+咱们		zan2men			wir (einschließlich Ansprechpartner)
+你们		ni3men			ihr (2. Pers. Plural)
+他们		ta1men			sie (3. Pers. Plural)
+她们		ta1men			sie (3. Pers. Plural, weiblich)
+不		bu4				nicht, nein
+也		ye3				auch
+都		dou1			beide, alle
+好		hao3			gut (sein)
+天气		tian1qi4		Wetter
+很		hen3			sehr
+真		zhen1			wahr, wirklich, echt
+冷		leng3			kalt (sein)
+热		re4				warm, heiß (sein)
+忙		mang2			sehr beschäftigt sein, viel zu tun haben
+吗		ma				Fragesatzpartikel
+早		zao3			früh (sein), Guten Morgen!
+可爱		ke3ai4			niedlich, nett, hübsch (sein)
+同学		tong2xue2		Kommiliton/e/in
+们		men				Pluralsuffix (nur für Personen)
+努力		nu3li4			fleißig (sein), sich bemühen, sich Mühe geben
+高		gao1			hoch, hochgewachsen, groß (sein), Gao (Familienname)
+矮		ai3				klein, niedrig (sein)
+朋友		peng2you		Freund/in, Bekannte/r
+休息		xiu1xi			sich ausruhen, eine Pause machen, freihaben
+做		zuo4			etw. machen, tun
+练习		lian4xi2		Übung, Übungsaufgabe, etw. üben, einüben
+学		xue2			etw. lernen, studieren
+走		zou3			gehen, weg-, fort-, losgehen
+再见		zai4jian4		Auf Wiedersehen!
+工作		gong1zuo4		Arbeit, arbeiten, berufstätig sein
+教		jiao4			etw. unterrichten, lehren
+医生		yi1sheng1		Arzt, Ärztin
+学习		xue2xi2			lernen, studieren, Studium
+俄文		e2wen2			die russische Sprache
+难		nan2			schwierig, schwer (sein)
+容易		rong2yi4		mühelos, leicht (sein)
+谈		tan2			über etw. sprechen, etw. besprechen, sich über etw. unterhalten
+话		hua4			Wort, Rede, Sprache
+谈话		tan2hua4		sich unterhalten, etw. besprechen
+看		kan4			sich etw. ansehen (Film etc.), etw. lesen
+看		kan1			auf jn./etw. aufpassen
+报纸		bao4zhi3		Zeitung
+会		hui4			etw. können, beherrschen
+妻子		qi1zi			Ehefrau
+日本		ri4ben3			Japan
+人		ren2			Mensch, Person
+孩子		hai2zi			Kind
+饭		fan4			gekochter Reis, Essen Mehl
+做饭		zuo4fan4		kochen, Essen zubereiten
+买		mai3			etw. kaufen
+东西		dong1xi			Ding, Sache, Gegenstand
+买东西	mai3dong1xi		einkaufen
+洗		xi3				etw. waschen
+衣服		yi1fu			Kleidung, Kleidungsstück
+做衣服	zuo4yi1fu		nähen
+是的		shi4de			ja, das stimmt, so ist es
+电视		dian4shi4		Fernseher, Fernsehgerät
+睡觉		shui4jiao4		schlafen
+回家		hui2jia1		nach Hause gehen/kommen, heimkehren, heimgehen
+家		jia1			Familie, Heim, Zuhause
+累		lei4			müde, erschöpft (sein)
+饿		e4				hungrig (sein), Hunger haben
+吧		ba				modale Satzpartikel
+关		guan1			etw. schließen (Fenster, Türen etc.), etwas aus-,abschalten (Fernseher etc.), Guan (Familienname)
+窗户		chuang1hu		Fenster
+喝		he1				etw. trinken
+茶		cha2			Tee
+谢谢		xie4xie			jm. danken, Danke!, Dankeschön!
+好喝		hao3he1			lecker (sein) (Getränke)
+中国		zhong1guo2		China
+美国		mei3guo2		USA, Amerika
+德国		de2guo2			Deutschland
+丈夫		zhang4fu		Ehemann
+今天		jin1tian1		der heutige Tag, heute
+明天		ming2tian1		der morgige Tag, morgen
+有		you3			etw. haben, besitzen
+没		mei2			nicht (haben) (verneint 有)
+课		ke4				Unterricht, Lektion
+上午		shang4wu3		Vormittag, vormittags
+下午		xia4wu3			Nachmittag, nachmittags
+空		kong4			freie Zeit, Muße
+事情		shi4qing		Vorhaben, Angelegenheit, Beschäftigung, Sache
+一起		yi4qi3			zusammen, gemeinsam
+房间		fang2jian1		Zimmer, Raum
+小		xiao3			klein (sein)
+大		da4				groß (sein)
+书架		shu1jia4		Bücherregal
+地方		di4fang			Ort, Platz, Gegend
+钱		qian2			Geld
+床		chuang2			Bett
+零		ling2			null, 0
+一		yi1				eins, 1
+二		er4				zwei, 2
+三		san1			drei, 3
+四		si4				vier, 4
+五		wu3				fünf, 5
+六		liu4			sechs, 6
+七		qi1				sieben, 7
+八		ba1				acht, 8
+九		jiu3			neun, 9
+十		shi2			zehn, 10
+年		nian2			(Kalendar-)Jahr
+月		yue4			Monat
+日		ri4				der x-te Monatstag
+号		hao4			der x-te Monatstag, Nummer
+星期		xing1qi1		Woche
+天		tian1			Tag, Himmel
+几		ji3				wie viel?, wie viele?
+还		hai2			noch, auch, außerdem, immer noch, doch noch
+书法		shu1fa3			Kalligrafie
+售货员	shou4huo4yuan2	Verkäufer/in (ZW 个)
+要		yao4			etw. haben wollen, brauchen
+张		zhang1			ZW für Dinge mit flacher Oberfläche, Zhang (Familienname)
+地图		di4tu2			Landkarte (ZW 张)
+多少		duo1shao		wie viel? wie viele?
+付钱		fu4qian2		bezahlen
+两		liang3			zwei (vor Zahlwörtern verwendet)
+扇		shan4			ZW für Fenster und Türen
+桌子		zhuo1zi			Tisch (ZW 张)
+把		ba3				ZW für Gegenstände mit Griff
+椅子		yi3zi			Stuhl (ZW 把)
+个		ge4				ZW allgemein (häufig unbetont)
+本		ben3			ZW für gebundene Dinge wie Bücherregal
+台		tai2			ZW u.a. für elektrische Geräte
+收音机	shou1yin1ji1	Radio (ZW 台)
+舒服		shu1fu			bequem, behaglich, angenehm, komfortable (sein), sich wohl fühlen
+只		zhi3			nur, bloß, lediglich (bezieht sich auf das Objekt)
+件		jian4			ZW u.a. für Sachen, Angelegenheiten, Kleidungsstücke
+玩具		wan2ju4			Spielzeug (ZW 件,个)
+座		zuo4			ZW u.a. für Gebäude, Anlagen
+楼		lou2			Gebäude (ZW 座)
+大学		da4xue2			Hochschule, Universität
+所		suo3			ZW u.a. für Schulen, Hochschulen
+教学楼	jiao4xue2lou2	Unterrichtsgebäude (ZW 座)
+清楚		qing1chu		sicher, genau
+百		bai3			hundert
+间		jian1			ZW u.a. für Räume, Zimmer
+语法		yu3fa3			Grammatik
+杂志		za2zhi4			Zeitschrift, Magazin (ZW 本)
+画报		hua4bao4		Illustrierte (ZW 本)
+问		wen4			jn. fragen
+位		wei4			ZW für Personen (Höflichkeitsform)
+图书馆员	tu2shu1guan3yuan2	Bibliothekar/in
+找		zhao3			etw./jn. suchen, zu jm. kommen, jn. aufsuchen, jn. zu sprechen wünschen
+哪		na3				welche/r/s
+哪		nei3			welche/r/s
+人民日报	ren2min2ri4bao4	Volkszeitung (Volksrepublik China)
+中央日报	zhong1yang1ri4bao4	Zentralzeitung (Taiwan)
+只		zhi1			ZW u.a. für Hunde, Katzen, Armbanduhren
+一共		yi2gong4		insgesamt, alles zusammen genommen
+奇怪		qi2guai4		seltsam, merkwürdig, erstaunlich (sein)
+对		dui4			richtig, korrekt (sein), stimmen
+汉语		han4yu3			die chinesische Sprache
+哪里		na3li			ach woher denn! aber nein! (höfliche Abwehr eines Kompliments)
+几		ji3				ein paar, einige
+句子		ju4zi			Satz (ZW 个)
+多		duo1			viel, zahlreich (sein)
+姓		xing4			mit Familienname heißen
+认识		ren4shi			jn. kennen, kennenlernen
+又		you4			noch dazu, ferner, außerdem, wieder
+又...又	you4...you4		...und..., sowohl...als auch
+胖		pang4			dick, beleibt, korpulent (sein)
+男		nan2			männlich
+女		nv3				weiblich
+瘦		shou4			schlank, mager (sein)
+少		shao3			wenig (sein)
+厚		hou4			dick (sein) (für Bücher, Kleidung)
+就		jiu4			nämlich, also, dann
+去		qu4				(hin)gehen, (hin)fahren, gehen/fahren nach/zu/in
+食堂		shi2tang2		Kantine, Mensa (ZW 个)
+吃		chi1			etw. essen
+吃饭		chi1fan4		essen
+好吃		hao3chi1		gut schmecken, lecker sein
+市场		shi4chang3		Markt, Marktplatz (ZW 个)
+水果		shui3guo3		Obst
+公园		gong1yuan2		Park (ZW 个,座)
+咖啡馆	ka1fei1guan3	Cafe, Cafeteria (ZW 个)
+进城		jin4cheng2		in die Stadt gehen/fahren
+火车站	huo3che1zhan4	Bahnhof (ZW 个,座)
+接		jie1			jn. abholen
+俄国		e2guo2			Russland
+来		lai2			kommen (nach/in/zu)
+进城		jin4			eintreten/hineingehen in, betreten
+上课		shang4ke4		Unterricht haben/halten, mit dem Unterricht beginnen
+罢课		ba4ke4			den Unterricht boykottieren
+回		hui2			zurückgehen/kehren/kommen nach
+知道		zhi1dao			etw. wissen, Kenntnis haben von, wissen, dass..., ob...
+时候		shi2hou			Zeit, Zeitpunkt
+问		wen4			fragen, ob..., wann...
+说		shuo1			sagen, sprechen (eine Fremdsprache sprechen)
+为什么	wei4shen2me		warum?
+对		dui4			gegenüber, mit, zu, für
+满意		man3yi4			zufrieden (sein)
+条件		tiao2jian4		Zustand, Verhältnisse (ZW 个)
+够		gou4			genug, genügend (sein), ausreichen
+太		tai4			zu, allzu
+新		xin1			neu (sein)
+有的		you3de			manche, einige
+管		guan3			sich kümmern um jn./etw.
+下课		xia4ke4			den Unterricht beenden
+以后		yi3hou4			nach, danach, nachher
+马上		ma3shang4		sofort, auf der Stelle
+自己		zi4ji3			selbst, eigen
+呢		ne				Fragesatzpartikel (Anschlussfragen)
+总		zong3			immer, stets
+总是		zong3shi		immer, stets
+叫		jiao4			heißen, jn./etw. rufen
+汉堡		han4bao3		Hamburg
+经济		jing1ji4		Wirtschaft, Ökonomie
+汉学		han4xue2		Sinologie
+每		mei3			jede, jeder, jedes
+中午		zhong1wu3		Mittag
+行		xing2			möglich, erlaubt, geeignet sein, gehen, das geht, das lässt sich machen, das ist in Ordnung
+时间		shi2jian1		Zeit(raum)
+花		hua1			Zeit/Geld aufwenden, kosten
+贵		gui4			teuer, kostspielig, wertvoll (sein)
+汉德		han4de2			chinesisch-deutsch
+不谢		bu2xie4			nichts zu danken
+下班		xia4ban1		Feierabend/Dienstschluss haben
+酒馆		jiu3guan3		Wirtshaus, Gasthaus, Kneipe (ZW 个)
+买菜		mai3cai4		Lebensmittel einkaufen
+喜欢		xi3huan1		etw./jn. mögen, gern haben, Gefallen haben an, etw. gern tun
+意思		yi4si			Bedeutung, Sinn
+有意思	you3yi4si		interessant, amüsant sein, Sinn haben
+一点儿	yi4dian3er		ein bisschen, ein wenig, etwas
+作业		zuo4ye4			Schul-, Hausaufgaben
+没意思	mei2yi4si		uninteressant, langweilig, sinnlos (sein)
+先		xian1			zuerst, zunächst
+课文		ke4wen2			(Schulbuch-, Lehrbuch-) Text (ZW 篇)
+篇		pian1			ZW u.a. für Texte, Aufsätze
+人口		ren2kou3		Bevölkerung
+懂		dong3			etw. verstehen, begreifen
+怎么样	zen3me5yang4	wie? auf welche Weise? wie wäre es? wenn? was hälst du davon?
+身体		shen1ti3		Leib, Körper
+伯父		bo2fu4			Onkel (älterer Bruder des Vaters)
+了		le				modale Satzpartikel
+头		tou2			Kopf (ZW 个)
+疼		teng2			weh tun, schmerzen
+认真		ren4zhen1		gewissenhaft, fleißig und sorgfältig, ernsthaft (sein), etw. ernst nehmen
+进步		jin4bu4			Fortschritt, Fortschritte machen
+快		kuai4			schnell, rasch (sein)
+慢		man4			langsam (sein)
+没关系	mei2guan1xi		das macht nichts, ist nicht so schlimm, keine Ursache (sich zu entschuldigen)
+说话		shuo1hua4		reden, sprechen
+在		zai4			da sein, anwesend sein, (an einem Ort) sein, sich befinden, gerade (dabei) (Aspekt des Verlaufs)
+正在		zheng4zai4		gerade (dabei) (Aspekt des Verlaufs)
+等		deng3			auf jn./etw. warten
+汉字		han4zi4			(chinesische) Schriftzeichen (ZW 个)
+敲		qiao1			an/auf etw. klopfen, schlagen
+门		men2			Tür (ZW 扇)
+儿子		er2zi			Sohn
+开		kai1			etw. öffnen, etw. an-/einschalten
+伯母		bo2mu3			Tante (Frau des älteren Bruders des Vaters) (Anrede gegenüber älteren Frauen)
+请进		qing3jin4		bitte komm herein, treten sie bitte ein
+请坐		qing3zuo4		setz dich bitte, bitte nehmen Sie Platz
+洗澡		xi3zao3			baden, ein Bad nehmen
+上班		shang4ban1		zur Arbeit gehen, mit der Arbeit anfangen, bei der Arbeit sein
+晚上		wan3shang		Abend, abends
+再		zai4			wieder, noch einmal (bezieht sich auf Tätigkeiten in der Zukunft)
+女儿		nv3er2			Tochter
+哎哟		ai1yo1			o je, ach (Mitgefühl, Bedauern)
+湿		shi1			nass, durchnässt, feucht (sein)
+雨		yu3				Regen
+车		che1			Fahrzeug, Wagen, Bus (ZW 辆)
+辆		liang4			ZW für Fahrzeuge
+特别		te4bie2			besonders, ungemein, sonderbar (sein)
+换		huan4			etw. wechseln, tauschen
+厨房		chu2fang2		Küche (ZW 个)
+快		kuai4			bald, gleich
+然后		ran2hou4		dann, danach, nachher, anschließend
+冬天		dong1tian1		Winter
+到		dao4			ankommen, eintreffen
+凉		liang2			kühl, kalt (sein)
+暖气		nuan3qi4		(Zentral-)Heizung
+就		jiu4			gleich, sofort
+常常		chang2chang2	oft, häufig
+好看		hao3kan4		gut aussehend, hübsch (sein)
+以前		yi3qian2		früher, vor, vorher, bevor
+现在		xian4zai4		jetzt, zur Zeit, gegenwärtig
+坏		huai4			schlecht, defekt, kaputt gegangen (sein)
+响		xiang3			ertönen, klingeln, spielen (Radio etc.)
+毛病		mao2bing4		Defekt, Schaden, Mangel (ZW 个)
+自行车	zi4xing2che1	Fahrrad (ZW 辆)
+修理		xiu1li3			etw. reparieren
+有一天	you3yi4tian1	eines Tages
+忽然		hu1ran2			plötzlich, unerwartet, auf einmal
+有人		you3ren2		jemand
+年轻		nian2qing1		jung, jugendlich (sein)
+对不起	dui4bu5qi3		Entschuldigung! Es tut mir Leid!
+从前		cong2qian2		früher, ehemals, einst
+小		xiao3			Anredeform, 小高 - kleiner Gao
+好久不见了	hao3jiu3bu2jian4le	Lange nicht gesehen!
+上学		shang4xue2		zur Schule gehen, die Schule besuchen
+那么		na4me			so, derartig, dermaßen
+这么		zhe4me			so, derartig, dermaßen
+完全		wan2quan2		ganz, völlig, vollkommen
+老		lao3			alt, betagt (sein), Anredeform 老高 - alter Gao
+有时候	you3shi2hou		manchmal, gelegentlich, hin und wieder
+看		kan4			jn. besuchen (gehen)
+结婚		jie2hun4		heiraten, sich verheiraten
+早		zao3			längst, schon lange
+这儿		zhe4r			hier
+这里		zhe4li3			hier
+那儿		na4r			dort
+那里		na4li3			dort
+哪儿		na3r			wo?
+哪里		na3li3			wo?
+刘		liu2			Liu (Familienname)
+一会儿	yi2hui4r		ein Moment, ein Augenblick, eine kurze Weile
+出门		chu1men2		aus der Tür/aus dem Haus gehen
+姑娘		gu1niang		Mädchen, junge (unverheiratete) Frau
+办公室	ban4gong1shi4	Büro (ZW 个)
+人们		ren2men			Leute, die Leute, man
+毛衣		mao2yi1			(Woll-)Pullover (ZW 件)
+便宜		pian2yi			preisgünstig, billig (sein)
+但是		dan4shi4		aber, jedoch
+渴		ke3				durstig (sein), Durst haben
+商店		shang1dian4		Laden, Geschäft (ZW 家)
+家		jia1			ZW u.a. für Geschäfte, Firmen
+书包		shu1bao1		Schulmappe, Büchertasche (ZW 个)
+里		li3				innen, drinnen, in
+外		wai4			außen, draußen, außerhalb
+上		shang4			oben, auf, über, in
+下		xia4			unter, unten
+前		qian2			vorn, vor
+后		hou4			hinten, hinter
+左		zuo3			links
+右		you4			rechts
+面		mian			benötigt ein Ortnomina 左面，右面，前面
+边		bian			benötigt ein Ortnomina 左边，右边，前边
+头		tou				benötigt ein Ortnomina 左头，右头，前头
+玩儿		wan2r			spielen, sich vergnügen, sich die Zeit vertreiben, mit etw. spielen
+汽车		qi4che1			Auto (ZW 辆)
+没了		mei2le			weg, verschwunden sein
+乱		luan4			durcheinander, unordentlich (sein)
+乱七八糟	luan4qi1ba1zao1	großes Durcheinander, Riesenchaos
+收拾		shou1shi		Zimmer aufräumen, Koffer packen
+外国		wai4guo2		Ausland
+人民大学	ren2min2da4xue2	Volksuniversität
+条		tiao2			ZW u.a. für Straßen, Fische, Hosen
+路		lu4				Straße, Weg (ZW 条)
+邮局		you2ju2			Postamt (ZW 所)
+点钟		dian3zhong1		...Uhr
+刻钟		ke4zhong1		viertel vor .../nach ...
+半		ban4			halb ..., ... einhalb
+分钟		fen1zhong1		x Minuten vor/nach ...
+差		cha4			fehlen, ... vor ..., unbefriedigend, ungenügend (sein)
+时		shi2			... Uhr (bei offiziellen Zeitangaben)
+手表		shou3biao3		(Armband-)Uhr (ZW 只)
+新闻		xin1wen2		Nachrichten, Neuigkeiten (ZW 条)
+部		bu4				ZW u.a. für Filme, Wörterbücher
+电影		dian4ying3		Film (ZW 部)
+开始		kai1shi3		anfangen, beginnen etw. zu tun
+晚		wan3			spät (sein)
+夜里		ye4li			in der Nacht, nachts
+早上		zao3shang		der Morgen, morgens
+起床		qi3chuang2		das Bett verlassen, aufstehen
+早饭		zao3fan4		Frühstück
+学校		xue2xiao4		Schule (Oberbegriff für all Bildungsanstalten) (ZW 所)
+中饭		zhong1fan4		Mittagessen
+晚饭		wan3fan4		Abendessen
+在		zai4			in, an, auf
+从		cong2			von ... (aus)
+到		dao4			nach, zu, bis (räumlich und zeitlich)， 从。。。到 von...bis (räumlich und zeitlich)
+邮票		you2piao4		Briefmarke (ZW 张)
+旁边		pang2bian1		neben, an der Seite
+电影院	dian4ying3yuan4	Kino (ZW 家)
+放电影	fang4dian4ying3	einen Film zeigen, vorführen
+整		zheng3			ganz, voll, Uhrzeit: Punkt
+医院		yi1yuan4		Krankenhaus (ZW 所)
+从早到晚	cong2zao3dao4wan3	von morgens bis abends
+管家		guan3jia1		sich um Familie und Haushalt kümmern
+见		jian4			Bis...später, zum Abend, morgen!
+旅游		lv3you2			reisen, eine Urlaubsreise machen
+另		ling4			der/die/das andere
+一些		yi4xie1			ein paar, einige
+北京		bei3jing1		Peking
+漂亮		piao4liang		hübsch, schön, gutaussehend (sein)
+不好意思	bu4hao3yi4si	verlegen, schüchtern, beschämt (sein), sich genieren/schämen, etw. zu tun
+脸		lian3			Gesicht (ZW 张)
+红		hong2			rot (sein)
+怎么		zen3me			wie? auf welche Weise?
+坐		zuo4			sitzen, sich setzen, fahren in/mit, mit ... fahren (Bus, Flugzeug etc.)
+火车		huo3che1		Zug, Eisenbahn (ZW 辆)
+飞机		fei1ji1			Flugzeug (ZW 架)
+架		jia4			ZW u.a. für Flugzeuge
+柏林		bo2lin2			Berlin
+要		yao4			brauchen, benötigen, erfordern
+上		shang4			einsteigen in... (Bus, Flugzeug etc.)
+下		xia4			aussteigen aus... (Bus, Flugzeug etc.)
+开		kai1			fahren, lenken (Auto), mit dem Auto fahren
+骑		qi2				fahren (Rad, Moped), reiten (Pferd)
+笔		bi3				Schreibgerät, Stift (ZW 枝)
+枝		zhi1			ZW u.a. für Stifte, Zigaretten
+圆珠笔	yuan2zhu1bi3	Kugelschreiber, Stift (ZW 枝)
+用		yong4			etw. benutzen, gebrauchen, mit, mittels, auf ... (bei Sprachen)
+写		xie3			etw. schreiben
+写字		xie3zi4			schreiben
+手		shou3			Hand (ZW 只，双)
+双		shuang1			ZW Paar u.a. für Hände, Socken
+非常		fei1chang2		außergewöhnlich, äußerst
+毛笔		mao2bi3			(Schreib-)Pinsel (ZW 枝)
+是		shi				zur Markierung von Satzteilen
+听说		ting1shuo1		ich/wir habe/n gehört..., vom Hörensagen wissen..., dass
+回来		hui2lai2		zurückkommen, zurück sein
+上海		shang4hai3		Shanghai
+天津		tian1jin1		Tianjin
+走路		zou3lu4			zu Fuß gehen, zu Fuß
+时代		shi2dai4		die Zeiten, Zeit, Epoche
+变		bian4			sich ändern/verändern, sich wandeln
+生活		sheng1huo2		Leben, leben
+操场		cao1chang3		Sportplatz (ZW 个)
+锻炼身体	duan4lian4shen1ti3	Sport treiben, trainieren, sich Bewegung verschaffen
+经理		jing1li3		Manager/in, Direktor/in
+广州		guang3zhou1		Guangzhou
+订		ding4			etw. buchen, etw. abonnieren
+票		piao4			Ticket, Marke, Schein (ZW 张)
+起飞		qi3fei1			starten, abheben (Flugzeug)
+开		kai1			abfahren (Zug)
+公司		gong1si1		Firma, Unternehmen (ZW 家)
+请问		qing3wen4		Gestatten Sie mir die Frage, ...
+度假		du4jia4			Urlaub machen, in den Urlaub fahren
+病		bing4			erkranken, Krankheit
+问题		wen4ti2			Frage, Problem (ZW 个)
+回答		hui2da2			Antwort, etw. beantworten, antworte,dass...
+啊		a1				modales Satzpartikel, ah, ach
+昨天		zuo2tian1		der gestrige Tag, gestern
+网球		wang3qiu2		Tennis
+打		da3				Tennis etc. spielen, jn. schlagen
+词		ci2				Wort (ZW 个)
+所以		suo3yi3			deshalb, deswegen, darum
+念		nian4			etw. vorlesen, laut lesen
+查词典	cha2ci2dian3	im Wörterbuch nachschlagen/-sehen
+办法		ban4fa3			Methode, Mittel, Weg
+没办法	mei2ban4fa3		Da kann man nichts machen.
+有办法	you3ban4fa3		einen (Aus-)Weg wissen, Mittel und Wege finden
+念书		nian4shu1		lesen, lernen, studieren, zur Schule gehen, Bücher lesen
+可怜		ke3lian2		mitleiderregend, kläglich, bemitleidenswert (sein), jn. bemitleiden, Mitleid haben mit jm.
+后来		hou4lai2		später, dann, danach,für Vergangenes
+棵		ke1				ZW für Pflanzen
+白菜		bai2cai4		Chinakohl (ZW 棵)	
+斤		jin1			Pfund	
+土豆		tu3dou4			Kartoffeln	
+卖		mai4			etw. verkaufen	
+鱼		yu2				Fisch (ZW 条)	
+新鲜		xin1xian1		frisch (sein)	
+鸡		ji1				Huhn (ZW 只)	
+车站		che1zhan4		(Bus-)Haltestelle (ZW 个)
+公共汽车	gong1gong4qi4che1	Bus, Omnibus (ZW 辆)
+麻烦		ma2fan4			umständlich, lästig, unangenehm (sein), jn. belästigen, stören	
+方便		fang1bian4		bequem, angenehm, günstig (sein)	
+门口		men2kou3		Eingang, Ausgang, Durchgang (ZW 个)	
+生气		sheng1qi4		wütend, ärgerlich, böse sein	
+要紧		yao4jin3		wichtig, dringlich, dringend (sein)	
+聊天		liao2tian1		sich unterhalten, plaudern
+饭馆		fan4guan3		Restaurant (ZW 家)	
+跳舞		tiao4wu3		tanzen
+高兴		gao1xing4		froh, fröhlich, glücklich (sein)

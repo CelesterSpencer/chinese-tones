@@ -1,0 +1,764 @@
+{
+    "name": "HSK 2",
+    "cards": [{
+        "hanzi": ["吧"],
+        "pinyin": ["ba"],
+        "tone": ["5"],
+        "trans": "particle indicating polite suggestion; | onomatopoeia | bar (serving drinks, providing internet access, etc.)"
+    }, {
+        "hanzi": ["白"],
+        "pinyin": ["bai"],
+        "tone": ["2"],
+        "trans": "white; snowy; pure; bright; empty (Kangxi radical 106)"
+    }, {
+        "hanzi": ["百"],
+        "pinyin": ["bai"],
+        "tone": ["3"],
+        "trans": "hundred"
+    }, {
+        "hanzi": ["帮", "助"],
+        "pinyin": ["bang", "zhu"],
+        "tone": ["1", "4"],
+        "trans": "help; assist; aid"
+    }, {
+        "hanzi": ["报", "纸"],
+        "pinyin": ["bao", "zhi"],
+        "tone": ["4", "3"],
+        "trans": "newspaper"
+    }, {
+        "hanzi": ["比"],
+        "pinyin": ["bi"],
+        "tone": ["3"],
+        "trans": "compare; (indicates comparison) (Kangxi radical 81); to gesticulate as one talks"
+    }, {
+        "hanzi": ["别"],
+        "pinyin": ["bie"],
+        "tone": ["2"],
+        "trans": "don't do something; don't | depart; | other; difference; distinguish"
+    }, {
+        "hanzi": ["宾", "馆"],
+        "pinyin": ["bin", "guan"],
+        "tone": ["1", "3"],
+        "trans": "guesthouse; hotel"
+    }, {
+        "hanzi": ["长"],
+        "pinyin": ["chang"],
+        "tone": ["2"],
+        "trans": "long; length"
+    }, {
+        "hanzi": ["长"],
+        "pinyin": ["zhang"],
+        "tone": ["3"],
+        "trans": "grow; chief (Kangxi radical 168)"
+    }, {
+        "hanzi": ["唱", "歌"],
+        "pinyin": ["chang", "ge"],
+        "tone": ["4", "1"],
+        "trans": "sing (a song)"
+    }, {
+        "hanzi": ["出"],
+        "pinyin": ["chu"],
+        "tone": ["1"],
+        "trans": "go out; occur"
+    }, {
+        "hanzi": ["穿"],
+        "pinyin": ["chuan"],
+        "tone": ["1"],
+        "trans": "to wear; put on; penetrate"
+    }, {
+        "hanzi": ["次"],
+        "pinyin": ["ci"],
+        "tone": ["4"],
+        "trans": "(mw for number of times of occurrence); nth; order"
+    }, {
+        "hanzi": ["从"],
+        "pinyin": ["cong"],
+        "tone": ["2"],
+        "trans": "from; obey; observe"
+    }, {
+        "hanzi": ["错"],
+        "pinyin": ["cuo"],
+        "tone": ["4"],
+        "trans": "mistake; error; blunder; miss an opportunity"
+    }, {
+        "hanzi": ["打", "篮", "球"],
+        "pinyin": ["da", "lan", "qiu"],
+        "tone": ["3", "2", "2"],
+        "trans": "lánqiú\tplay basketball"
+    }, {
+        "hanzi": ["大", "家"],
+        "pinyin": ["da", "jia"],
+        "tone": ["4", "1"],
+        "trans": "everyone"
+    }, {
+        "hanzi": ["到"],
+        "pinyin": ["dao"],
+        "tone": ["4"],
+        "trans": "arrive (at a place); until (a time)"
+    }, {
+        "hanzi": ["得"],
+        "pinyin": ["de"],
+        "tone": ["5"],
+        "trans": "(complement particle)"
+    }, {
+        "hanzi": ["等"],
+        "pinyin": ["deng"],
+        "tone": ["3"],
+        "trans": "to wait; rank; equal; etc."
+    }, {
+        "hanzi": ["弟", "弟"],
+        "pinyin": ["di", "di"],
+        "tone": ["4", "5"],
+        "trans": "younger brother"
+    }, {
+        "hanzi": ["第", "一"],
+        "pinyin": ["di", "yi"],
+        "tone": ["4", "1"],
+        "trans": "first; number 1"
+    }, {
+        "hanzi": ["懂"],
+        "pinyin": ["dong"],
+        "tone": ["3"],
+        "trans": "understand; know"
+    }, {
+        "hanzi": ["对"],
+        "pinyin": ["dui"],
+        "tone": ["4"],
+        "trans": "correct; a pair; to face; be opposite; to; towards"
+    }, {
+        "hanzi": ["房", "间"],
+        "pinyin": ["fang", "jian"],
+        "tone": ["2", "1"],
+        "trans": "room"
+    }, {
+        "hanzi": ["非", "常"],
+        "pinyin": ["fei", "chang"],
+        "tone": ["1", "2"],
+        "trans": "extremely; extraordinary; very"
+    }, {
+        "hanzi": ["服", "务", "员"],
+        "pinyin": ["fu", "wu", "yuan"],
+        "tone": ["2", "4", "2"],
+        "trans": "waiter/waitress; server; attendant"
+    }, {
+        "hanzi": ["高"],
+        "pinyin": ["gao"],
+        "tone": ["1"],
+        "trans": "high; tall (Kangxi radical 189)"
+    }, {
+        "hanzi": ["告", "诉"],
+        "pinyin": ["gao", "su"],
+        "tone": ["4", "5"],
+        "trans": "to tell; inform"
+    }, {
+        "hanzi": ["哥", "哥"],
+        "pinyin": ["ge", "ge"],
+        "tone": ["1", "5"],
+        "trans": "older brother"
+    }, {
+        "hanzi": ["给"],
+        "pinyin": ["gei"],
+        "tone": ["3"],
+        "trans": "to give; to grant; (passive particle)"
+    }, {
+        "hanzi": ["公", "共", "汽", "车"],
+        "pinyin": ["gong", "gong", "qi", "che"],
+        "tone": ["1", "4", "4", "1"],
+        "trans": "qìchē\t(public) bus"
+    }, {
+        "hanzi": ["公", "司"],
+        "pinyin": ["gong", "si"],
+        "tone": ["1", "1"],
+        "trans": "company; corporation"
+    }, {
+        "hanzi": ["贵"],
+        "pinyin": ["gui"],
+        "tone": ["4"],
+        "trans": "expensive; noble; honorable; Guizhou province (abbreviation)"
+    }, {
+        "hanzi": ["过"],
+        "pinyin": ["guo"],
+        "tone": ["4"],
+        "trans": "to pass; to cross; go over; (indicates a past experience)"
+    }, {
+        "hanzi": ["还"],
+        "pinyin": ["hai"],
+        "tone": ["2"],
+        "trans": "still; yet; in addition; even"
+    }, {
+        "hanzi": ["孩", "子"],
+        "pinyin": ["hai", "zi"],
+        "tone": ["2", "5"],
+        "trans": "child; children; son or daughter"
+    }, {
+        "hanzi": ["好", "吃"],
+        "pinyin": ["hao", "chi"],
+        "tone": ["3", "1"],
+        "trans": "tasty"
+    }, {
+        "hanzi": ["黑"],
+        "pinyin": ["hei"],
+        "tone": ["1"],
+        "trans": "black; dark (Kangxi radical 203); Heilongjiang province (abbreviation)"
+    }, {
+        "hanzi": ["红"],
+        "pinyin": ["hong"],
+        "tone": ["2"],
+        "trans": "red; symbol of success; bonus; popular"
+    }, {
+        "hanzi": ["火", "车", "站"],
+        "pinyin": ["huo", "che", "zhan"],
+        "tone": ["3", "1", "4"],
+        "trans": "train station"
+    }, {
+        "hanzi": ["机", "场"],
+        "pinyin": ["ji", "chang"],
+        "tone": ["1", "3"],
+        "trans": "airport; airfield"
+    }, {
+        "hanzi": ["鸡", "蛋"],
+        "pinyin": ["ji", "dan"],
+        "tone": ["1", "4"],
+        "trans": "(chicken) egg"
+    }, {
+        "hanzi": ["件"],
+        "pinyin": ["jian"],
+        "tone": ["4"],
+        "trans": "(mw for things, clothes, and items)"
+    }, {
+        "hanzi": ["教", "室"],
+        "pinyin": ["jiao", "shi"],
+        "tone": ["4", "4"],
+        "trans": "classroom"
+    }, {
+        "hanzi": ["姐", "姐"],
+        "pinyin": ["jie", "jie"],
+        "tone": ["3", "5"],
+        "trans": "older sister"
+    }, {
+        "hanzi": ["介", "绍"],
+        "pinyin": ["jie", "shao"],
+        "tone": ["4", "4"],
+        "trans": "to introduce; recommend; introduction"
+    }, {
+        "hanzi": ["进"],
+        "pinyin": ["jin"],
+        "tone": ["4"],
+        "trans": "enter; come in"
+    }, {
+        "hanzi": ["近"],
+        "pinyin": ["jin"],
+        "tone": ["4"],
+        "trans": "near; close (to)"
+    }, {
+        "hanzi": ["就"],
+        "pinyin": ["jiu"],
+        "tone": ["4"],
+        "trans": "then; at once; just; only; with regard to"
+    }, {
+        "hanzi": ["觉", "得"],
+        "pinyin": ["jue", "de"],
+        "tone": ["2", "5"],
+        "trans": "feel; think"
+    }, {
+        "hanzi": ["咖", "啡"],
+        "pinyin": ["ka", "fei"],
+        "tone": ["1", "1"],
+        "trans": "coffee"
+    }, {
+        "hanzi": ["开", "始"],
+        "pinyin": ["kai", "shi"],
+        "tone": ["1", "3"],
+        "trans": "begin; to start; beginning"
+    }, {
+        "hanzi": ["考", "试"],
+        "pinyin": ["kao", "shi"],
+        "tone": ["3", "4"],
+        "trans": "test; exam; to give or take a test"
+    }, {
+        "hanzi": ["可", "能"],
+        "pinyin": ["ke", "neng"],
+        "tone": ["3", "2"],
+        "trans": "possible; maybe"
+    }, {
+        "hanzi": ["可", "以"],
+        "pinyin": ["ke", "yi"],
+        "tone": ["3", "3"],
+        "trans": "can; may; possible; okay"
+    }, {
+        "hanzi": ["课"],
+        "pinyin": ["ke"],
+        "tone": ["4"],
+        "trans": "class; subject; lesson; course"
+    }, {
+        "hanzi": ["快"],
+        "pinyin": ["kuai"],
+        "tone": ["4"],
+        "trans": "fast; quick; swift"
+    }, {
+        "hanzi": ["快", "乐"],
+        "pinyin": ["kuai", "le"],
+        "tone": ["4", "4"],
+        "trans": "happy"
+    }, {
+        "hanzi": ["累"],
+        "pinyin": ["lei"],
+        "tone": ["4"],
+        "trans": "tired"
+    }, {
+        "hanzi": ["离"],
+        "pinyin": ["li"],
+        "tone": ["2"],
+        "trans": "leave; depart; go away; apart from"
+    }, {
+        "hanzi": ["两"],
+        "pinyin": ["liang"],
+        "tone": ["3"],
+        "trans": "two; 2; both; (unit of weight equal to 50 grams)"
+    }, {
+        "hanzi": ["零"],
+        "pinyin": ["ling"],
+        "tone": ["2"],
+        "trans": "zero; remnant"
+    }, {
+        "hanzi": ["路"],
+        "pinyin": ["lu"],
+        "tone": ["4"],
+        "trans": "road; path; journey; route"
+    }, {
+        "hanzi": ["旅", "游"],
+        "pinyin": ["lv", "you"],
+        "tone": ["3", "2"],
+        "trans": "trip; journey; tour"
+    }, {
+        "hanzi": ["卖"],
+        "pinyin": ["mai"],
+        "tone": ["4"],
+        "trans": "to sell"
+    }, {
+        "hanzi": ["慢"],
+        "pinyin": ["man"],
+        "tone": ["4"],
+        "trans": "slow"
+    }, {
+        "hanzi": ["忙"],
+        "pinyin": ["mang"],
+        "tone": ["2"],
+        "trans": "busy"
+    }, {
+        "hanzi": ["每"],
+        "pinyin": ["mei"],
+        "tone": ["3"],
+        "trans": "each; every"
+    }, {
+        "hanzi": ["妹", "妹"],
+        "pinyin": ["mei", "mei"],
+        "tone": ["4", "5"],
+        "trans": "younger sister"
+    }, {
+        "hanzi": ["门"],
+        "pinyin": ["men"],
+        "tone": ["2"],
+        "trans": "door; opening; gate (Kangxi radical 169)"
+    }, {
+        "hanzi": ["面", "条"],
+        "pinyin": ["mian", "tiao"],
+        "tone": ["4", "2"],
+        "trans": "noodles"
+    }, {
+        "hanzi": ["男"],
+        "pinyin": ["nan"],
+        "tone": ["2"],
+        "trans": "male"
+    }, {
+        "hanzi": ["您"],
+        "pinyin": ["nin"],
+        "tone": ["2"],
+        "trans": "you (polite)"
+    }, {
+        "hanzi": ["牛", "奶"],
+        "pinyin": ["niu", "nai"],
+        "tone": ["2", "3"],
+        "trans": "cow's milk"
+    }, {
+        "hanzi": ["女"],
+        "pinyin": ["nv"],
+        "tone": ["3"],
+        "trans": "woman; female (Kangxi radical 38)"
+    }, {
+        "hanzi": ["旁", "边"],
+        "pinyin": ["pang", "bian"],
+        "tone": ["2", "1"],
+        "trans": "side, beside"
+    }, {
+        "hanzi": ["跑", "步"],
+        "pinyin": ["pao", "bu"],
+        "tone": ["3", "4"],
+        "trans": "to run; to jog"
+    }, {
+        "hanzi": ["便", "宜"],
+        "pinyin": ["pian", "yi"],
+        "tone": ["2", "5"],
+        "trans": "cheap"
+    }, {
+        "hanzi": ["票"],
+        "pinyin": ["piao"],
+        "tone": ["4"],
+        "trans": "ticket; bank note; a vote"
+    }, {
+        "hanzi": ["妻", "子"],
+        "pinyin": ["qi", "zi"],
+        "tone": ["1", "5"],
+        "trans": "wife"
+    }, {
+        "hanzi": ["起", "床"],
+        "pinyin": ["qi", "chuang"],
+        "tone": ["3", "2"],
+        "trans": "chuáng\tget out of bed"
+    }, {
+        "hanzi": ["千"],
+        "pinyin": ["qian"],
+        "tone": ["1"],
+        "trans": "one thousand"
+    }, {
+        "hanzi": ["铅", "笔"],
+        "pinyin": ["qian", "bi"],
+        "tone": ["1", "3"],
+        "trans": "pencil"
+    }, {
+        "hanzi": ["晴"],
+        "pinyin": ["qing"],
+        "tone": ["2"],
+        "trans": "clear; fine (as of weather)"
+    }, {
+        "hanzi": ["去", "年"],
+        "pinyin": ["qu", "nian"],
+        "tone": ["4", "2"],
+        "trans": "last year"
+    }, {
+        "hanzi": ["让"],
+        "pinyin": ["rang"],
+        "tone": ["4"],
+        "trans": "ask; let; yield"
+    }, {
+        "hanzi": ["日"],
+        "pinyin": ["ri"],
+        "tone": ["4"],
+        "trans": "sun; day; date; time (Kangxi radical 72)"
+    }, {
+        "hanzi": ["上", "班"],
+        "pinyin": ["shang", "ban"],
+        "tone": ["4", "1"],
+        "trans": "go to work; be on duty"
+    }, {
+        "hanzi": ["身", "体"],
+        "pinyin": ["shen", "ti"],
+        "tone": ["1", "3"],
+        "trans": "health; (human) body"
+    }, {
+        "hanzi": ["生", "病"],
+        "pinyin": ["sheng", "bing"],
+        "tone": ["1", "4"],
+        "trans": "get sick; fall ill"
+    }, {
+        "hanzi": ["生", "日"],
+        "pinyin": ["sheng", "ri"],
+        "tone": ["1", "4"],
+        "trans": "birthday"
+    }, {
+        "hanzi": ["时", "间"],
+        "pinyin": ["shi", "jian"],
+        "tone": ["2", "1"],
+        "trans": "time; period"
+    }, {
+        "hanzi": ["事", "情"],
+        "pinyin": ["shi", "qing"],
+        "tone": ["4", "5"],
+        "trans": "matter; affair; thing; business"
+    }, {
+        "hanzi": ["手", "表"],
+        "pinyin": ["shou", "biao"],
+        "tone": ["3", "3"],
+        "trans": "wristwatch"
+    }, {
+        "hanzi": ["手", "机"],
+        "pinyin": ["shou", "ji"],
+        "tone": ["3", "1"],
+        "trans": "mobile (cell) phone"
+    }, {
+        "hanzi": ["说", "话"],
+        "pinyin": ["shuo", "hua"],
+        "tone": ["1", "4"],
+        "trans": "to talk; speak"
+    }, {
+        "hanzi": ["送"],
+        "pinyin": ["song"],
+        "tone": ["4"],
+        "trans": "deliver; to carry; to give; send"
+    }, {
+        "hanzi": ["虽", "然"],
+        "pinyin": ["sui", "ran"],
+        "tone": ["1", "2"],
+        "trans": "although; even though"
+    }, {
+        "hanzi": ["但", "是"],
+        "pinyin": ["dan", "shi"],
+        "tone": ["4", "4"],
+        "trans": "but; however"
+    }, {
+        "hanzi": ["它"],
+        "pinyin": ["ta"],
+        "tone": ["1"],
+        "trans": "it"
+    }, {
+        "hanzi": ["踢", "足", "球"],
+        "pinyin": ["ti", "zu", "qiu"],
+        "tone": ["1", "2", "2"],
+        "trans": "to play football/soccer"
+    }, {
+        "hanzi": ["题"],
+        "pinyin": ["ti"],
+        "tone": ["2"],
+        "trans": "topic; subject; question on a test or assignment"
+    }, {
+        "hanzi": ["跳", "舞"],
+        "pinyin": ["tiao", "wu"],
+        "tone": ["4", "3"],
+        "trans": "to dance"
+    }, {
+        "hanzi": ["外"],
+        "pinyin": ["wai"],
+        "tone": ["4"],
+        "trans": "outer; outside; in addition; foreign"
+    }, {
+        "hanzi": ["完"],
+        "pinyin": ["wan"],
+        "tone": ["2"],
+        "trans": "to finish; be over; complete"
+    }, {
+        "hanzi": ["玩"],
+        "pinyin": ["wan"],
+        "tone": ["2"],
+        "trans": "to play; have a good time; visit; enjoy"
+    }, {
+        "hanzi": ["晚", "上"],
+        "pinyin": ["wan", "shang"],
+        "tone": ["3", "5"],
+        "trans": "evening; night"
+    }, {
+        "hanzi": ["往"],
+        "pinyin": ["wang"],
+        "tone": ["3"],
+        "trans": "to go (in a direction); towards; in the past"
+    }, {
+        "hanzi": ["为", "什", "么"],
+        "pinyin": ["wei", "shen", "me"],
+        "tone": ["4", "2", "5"],
+        "trans": "why?; for what reason?"
+    }, {
+        "hanzi": ["问"],
+        "pinyin": ["wen"],
+        "tone": ["4"],
+        "trans": "ask; inquire"
+    }, {
+        "hanzi": ["问", "题"],
+        "pinyin": ["wen", "ti"],
+        "tone": ["4", "2"],
+        "trans": "question; problem"
+    }, {
+        "hanzi": ["西", "瓜"],
+        "pinyin": ["xi", "gua"],
+        "tone": ["1", "1"],
+        "trans": "watermelon"
+    }, {
+        "hanzi": ["希", "望"],
+        "pinyin": ["xi", "wang"],
+        "tone": ["1", "4"],
+        "trans": "to hope; wish for; to desire"
+    }, {
+        "hanzi": ["洗"],
+        "pinyin": ["xi"],
+        "tone": ["3"],
+        "trans": "to wash; bathe"
+    }, {
+        "hanzi": ["小", "时"],
+        "pinyin": ["xiao", "shi"],
+        "tone": ["3", "2"],
+        "trans": "hour"
+    }, {
+        "hanzi": ["笑"],
+        "pinyin": ["xiao"],
+        "tone": ["4"],
+        "trans": "to laugh; to smile"
+    }, {
+        "hanzi": ["新"],
+        "pinyin": ["xin"],
+        "tone": ["1"],
+        "trans": "new; Xinjiang autonomous region (abbreviation)"
+    }, {
+        "hanzi": ["姓"],
+        "pinyin": ["xing"],
+        "tone": ["4"],
+        "trans": "surname; family name"
+    }, {
+        "hanzi": ["休", "息"],
+        "pinyin": ["xiu", "xi"],
+        "tone": ["1", "5"],
+        "trans": "to rest; take a break"
+    }, {
+        "hanzi": ["雪"],
+        "pinyin": ["xue"],
+        "tone": ["3"],
+        "trans": "snow"
+    }, {
+        "hanzi": ["颜", "色"],
+        "pinyin": ["yan", "se"],
+        "tone": ["2", "4"],
+        "trans": "color"
+    }, {
+        "hanzi": ["眼", "睛"],
+        "pinyin": ["yan", "jing"],
+        "tone": ["3", "5"],
+        "trans": "eye"
+    }, {
+        "hanzi": ["羊", "肉"],
+        "pinyin": ["yang", "rou"],
+        "tone": ["2", "4"],
+        "trans": "mutton; lamb"
+    }, {
+        "hanzi": ["药"],
+        "pinyin": ["yao"],
+        "tone": ["4"],
+        "trans": "medicine; drug; cure; chemical"
+    }, {
+        "hanzi": ["要"],
+        "pinyin": ["yao"],
+        "tone": ["4"],
+        "trans": "to want; to need; will/shall; important"
+    }, {
+        "hanzi": ["也"],
+        "pinyin": ["ye"],
+        "tone": ["3"],
+        "trans": "also; too"
+    }, {
+        "hanzi": ["一", "起"],
+        "pinyin": ["yi", "qi"],
+        "tone": ["4", "3"],
+        "trans": "together; in the same place"
+    }, {
+        "hanzi": ["一", "下"],
+        "pinyin": ["yi", "xia"],
+        "tone": ["2", "4"],
+        "trans": "a little bit/while; one time; once"
+    }, {
+        "hanzi": ["已", "经"],
+        "pinyin": ["yi", "jing"],
+        "tone": ["3", "5"],
+        "trans": "already"
+    }, {
+        "hanzi": ["意", "思"],
+        "pinyin": ["yi", "si"],
+        "tone": ["4", "5"],
+        "trans": "meaning; idea; opinion"
+    }, {
+        "hanzi": ["因", "为"],
+        "pinyin": ["yin", "wei"],
+        "tone": ["1", "4"],
+        "trans": "because"
+    }, {
+        "hanzi": ["所", "以"],
+        "pinyin": ["suo", "yi"],
+        "tone": ["3", "3"],
+        "trans": "so; therefore; as a result"
+    }, {
+        "hanzi": ["阴"],
+        "pinyin": ["yin"],
+        "tone": ["1"],
+        "trans": "cloudy (weather); yin (the negative principle of Yin and Yang); secret; the moon; negative; shade"
+    }, {
+        "hanzi": ["游", "泳"],
+        "pinyin": ["you", "yong"],
+        "tone": ["2", "3"],
+        "trans": "to swim"
+    }, {
+        "hanzi": ["右", "边"],
+        "pinyin": ["you", "bian"],
+        "tone": ["4", "5"],
+        "trans": "the right (as opposed to left) side"
+    }, {
+        "hanzi": ["鱼"],
+        "pinyin": ["yu"],
+        "tone": ["2"],
+        "trans": "fish (Kangxi radical 195)"
+    }, {
+        "hanzi": ["远"],
+        "pinyin": ["yuan"],
+        "tone": ["3"],
+        "trans": "far; distant; remote"
+    }, {
+        "hanzi": ["运", "动"],
+        "pinyin": ["yun", "dong"],
+        "tone": ["4", "4"],
+        "trans": "(physical) exercise; movement; sports; campaign"
+    }, {
+        "hanzi": ["再"],
+        "pinyin": ["zai"],
+        "tone": ["4"],
+        "trans": "again; once more"
+    }, {
+        "hanzi": ["早", "上"],
+        "pinyin": ["zao", "shang"],
+        "tone": ["3", "5"],
+        "trans": "(early) morning"
+    }, {
+        "hanzi": ["丈", "夫"],
+        "pinyin": ["zhang", "fu"],
+        "tone": ["4", "5"],
+        "trans": "husband; man"
+    }, {
+        "hanzi": ["找"],
+        "pinyin": ["zhao"],
+        "tone": ["3"],
+        "trans": "try to find; look for; seek; to give change"
+    }, {
+        "hanzi": ["着"],
+        "pinyin": ["zhe"],
+        "tone": ["5"],
+        "trans": "-ing (indicating action in progress)"
+    }, {
+        "hanzi": ["真"],
+        "pinyin": ["zhen"],
+        "tone": ["1"],
+        "trans": "real; true; genuine"
+    }, {
+        "hanzi": ["正", "在"],
+        "pinyin": ["zheng", "zai"],
+        "tone": ["4", "4"],
+        "trans": "in the process of (doing something); currently"
+    }, {
+        "hanzi": ["知", "道"],
+        "pinyin": ["zhi", "dao"],
+        "tone": ["1", "5"],
+        "trans": "know; be aware of"
+    }, {
+        "hanzi": ["准", "备"],
+        "pinyin": ["zhun", "bei"],
+        "tone": ["3", "4"],
+        "trans": "prepare; get ready"
+    }, {
+        "hanzi": ["走"],
+        "pinyin": ["zou"],
+        "tone": ["3"],
+        "trans": "to walk; to go; to move (Kangxi radical 156)"
+    }, {
+        "hanzi": ["最"],
+        "pinyin": ["zui"],
+        "tone": ["4"],
+        "trans": "the most; -est; (indicator for superlative)"
+    }, {
+        "hanzi": ["左", "边"],
+        "pinyin": ["zuo", "bian"],
+        "tone": ["3", "5"],
+        "trans": "the left side; the left"
+    }]
+}
