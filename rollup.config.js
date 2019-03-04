@@ -2,6 +2,7 @@ import resolve from 'rollup-plugin-node-resolve';
 import pegjs from 'rollup-plugin-pegjs';
 import json from 'rollup-plugin-json';
 import babel from 'rollup-plugin-babel';
+import image from 'rollup-plugin-image';
 import uglify from 'rollup-plugin-uglify';
 import { minify } from 'uglify-es';
 
@@ -19,6 +20,7 @@ export default {
             jsnext: true,
             browser: true,
         }),
+        image(),
         json({
             exclude: 'node_modules/**',
             preferConst: true,

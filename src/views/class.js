@@ -53,7 +53,6 @@ class Class extends View {
                     height          : 100%;
                     padding         : 0;
                     border-radius   : 0;
-                    background      : white;
                 }
                 header {
                     display         : flex;
@@ -65,10 +64,20 @@ class Class extends View {
                     padding-left    : 15px;
                     padding-right   : 15px;
                     margin          : 0px;
-                    background      : #009688;
-                    color           : white;
+                    margin-bottom   : 20px;
+                    background      : white;
+                    color           : black;
                     font-size       : 2em;
                     z-index         : 100;
+                }
+                wrap {
+                    width: 95%;
+                    height: calc(100% - 90px - 40px);
+                    border-radius: 12px;
+                    margin-top: 15px;
+                    padding: 10px;
+                    background      : white;
+                    overflow-y: auto;
                 }
                 count {
                     display: flex;
@@ -87,10 +96,10 @@ class Class extends View {
                 right { background: #4caf50; }
                 wrong { background: #f44336; }
                 header button {
-                    border      : solid 1px white;
-                    color       : white;
+                    border      : solid 1px black;
+                    color       : black;
                     background  : none;
-                    padding     : 5px;
+                    padding     : 15px;
                     border-radius : 15px;
                 }
                 question {
@@ -110,7 +119,7 @@ class Class extends View {
                     flex-direction: row;
                     align-items: center;
                     justify-content: center;
-                    font-size: 5em;
+                    font-size: 4em;
                 }
                 character span {
                     position: relative;
@@ -263,7 +272,9 @@ class Class extends View {
                 ${this.__style()}
                 <card>
                     ${this.__header()}
+                    <wrap>
                     ${this.currentCourse.template(deck, card)}
+                    </wrap>
                 </card>
             `,
             this.parent

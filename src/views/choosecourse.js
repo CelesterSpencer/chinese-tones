@@ -3,14 +3,19 @@ import {repeat} from 'lit-html/lib/repeat';
 import {get} from '../util/doc';
 import {View} from '../core/view';
 import {Course} from '../core/course';
+// images
+import translateIcon from '../../res/images/hanzi-eng.png';
+import hanziIcon from '../../res/images/eng-hanzi.png';
+import tonesIcon from '../../res/images/tones.png';
+import infoIcon from '../../res/images/info.png';
 
 // courses
 const courses = [
     //new Course('Mix',       ['TONES', 'TRANSLATE', 'HANZI']),
-    new Course('Translate', ['TRANSLATE']         ),
-    new Course('Hanzi',     ['HANZI']             ),
-    new Course('Tones',     ['TONES']             ),
-    new Course('Info',      ['INFO']             )
+    new Course('Translate', ['TRANSLATE'], translateIcon),
+    new Course('Hanzi'    , ['HANZI']    , hanziIcon),
+    new Course('Tones'    , ['TONES']    , tonesIcon),
+    new Course('Info'     , ['INFO']     , infoIcon)
 ];
 
 class ChooseCourse extends View {
@@ -32,10 +37,9 @@ class ChooseCourse extends View {
                     display         : flex;
                     flex-direction  : column;
                     align-items     : center;
-                    justify-content : flex-start;
+                    justify-content : center;
                     height          : 100%;
                     width           : 100%;
-                    background      : gray;
                 }
                 header {
                     display         : flex;
@@ -46,27 +50,30 @@ class ChooseCourse extends View {
                     padding         : 0px;
                     margin          : 0px;
                     margin-bottom   : 20px;
-                    background      : #009688;
-                    color           : white;
+                    background      : white;
+                    color           : black;
                     font-size       : 2em;
                     z-index         : 100;
                 }
+                card row {
+                    display: flex;
+                    flex-direction: row;
+                }
                 card button {
-                    display         : flex;
-                    flex-direction  : row;
-                    align-items     : center;
-                    justify-content : space-between;
-                    border          : none;
-                    padding         : 5px;
-                    padding-left    : 15px;
-                    padding-right   : 15px;
-                    margin-bottom   : 5px;
-                    width           : 95%;
-                    height          : 70px;
+                    display: inline block;
+                    width           : 110px;
+                    height          : 110px;
+                    margin          : 5px;
+                    border-radius   : 100%;
                     background      : white;
-                    border-bottom   : solid 1px gray; 
-                    font-size       : 1.2em;
+                    box-shadow      : 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
                     z-index         : 1;
+                }
+                img {
+                    height: auto; 
+                    width: auto; 
+                    max-width: 60px; 
+                    max-height: 60px;
                 }
             </style>
         `
@@ -76,17 +83,24 @@ class ChooseCourse extends View {
         render(
             html`
                 ${this.__style()}
-                <header>Choose a course</header>
+                <header>Courses</header>
                 <card>
-                    ${repeat(
-                        courses,
-                        (_, i) => i,
-                        (c, i) => html`
-                            <button on-click=${_ => this.onClickHandler(i)}>
-                                <span>${c.name}</span>
-                            </button>
-                        `
-                    )}
+                    <row>
+                        <button on-click=${_ => this.onClickHandler(0)}>
+                            ${courses[0].img}
+                        </button>
+                        <button on-click=${_ => this.onClickHandler(1)}>
+                            ${courses[1].img}
+                        </button>
+                    </row>
+                    <row>
+                        <button on-click=${_ => this.onClickHandler(2)}>
+                            ${courses[2].img}
+                        </button>
+                        <button on-click=${_ => this.onClickHandler(3)}>
+                            ${courses[3].img}
+                        </button>
+                    </row>
                 </card>
             `,
             this.parent

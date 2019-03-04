@@ -43,23 +43,24 @@ class Deck {
     getSubsetByRating() {
         const count = 20;
 
-        // return if there are less cards
+        // return if there are less than 20 cards in this deck
         if (this.cards.length < count) {
             return this.cards;
         }
 
-        // filter all new cards
-        let newCards = this.cards.filter(card => (card.rating===0));
-        let sortedCards = this.cards.sort((a, b) => a.rating - b.rating)
+        // filter new and old cards
+        let newCards = this.cards.filter(card => (card.rating === 0));
+        let oldCards = this.cards.filter(card => (card.rating !== 0));
+        oldCards.sort((a, b) => a.rating - b.rating);
 
-        // limit new cards to 5 or less
+        // determine how much to pick from the two sets
+        let newCardsToPick = Math.max(count - oldCards.length, 5);
+        let oldCardsToPick = count - newCardsToPick; 
+
+        // pick new cards in the order of appearance in the deck
         let cards = [];
-        if (newCards.length > 5) {
-            for (let i = 0; i < 5; i++) {
-                cards.push(newCards[i]);
-            }
-        } else {
-            cards = newCards;
+        for (let i = 0; i < newCardsToPick; i++) {
+            cards.push(newCards[i]);
         }
 
         // fill exceptions
@@ -68,17 +69,14 @@ class Deck {
 
         // random function
         const randomCard = () => {
-            let idx = Math.floor(2 * Math.abs(noise() - 0.5) * sortedCards.length);
-            return sortedCards[idx];
+            let idx = Math.floor(2 * Math.abs(noise() - 0.5) * oldCards.length);
+            return oldCards[idx];
         }
 
-        // add enough cards
-        let diff = count - cards.length;
-        for(let i = 0; i < diff; i++) {
+        // add old cards
+        for(let i = 0; i < oldCardsToPick; i++) {
             let card = randomCard();
-            while(card.hanzi.join() in existingCards) {
-                card = randomCard();
-            }
+            while(card.hanzi.join() in existingCards) { card = randomCard(); }
             existingCards[card.hanzi.join()] = card;
             cards.push(card);
         }

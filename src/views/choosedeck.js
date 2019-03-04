@@ -44,7 +44,6 @@ class ChooseDeck extends View {
                     justify-content : flex-start;
                     height          : 100%;
                     width           : 100%;
-                    background      : gray;
                 }
                 header {
                     display         : flex;
@@ -55,8 +54,8 @@ class ChooseDeck extends View {
                     padding         : 0px;
                     margin          : 0px;
                     margin-bottom   : 20px;
-                    background      : #009688;
-                    color           : white;
+                    background      : white;
+                    color           : black;
                     font-size       : 2em;
                     z-index         : 100;
                 }
@@ -65,7 +64,8 @@ class ChooseDeck extends View {
                     flex-direction  : row;
                     align-items     : center;
                     justify-content : space-between;
-                    border          : none;
+                    border          : 15px;
+                    border-radius   : 12px;
                     padding         : 5px;
                     padding-left    : 15px;
                     padding-right   : 15px;
@@ -74,11 +74,19 @@ class ChooseDeck extends View {
                     height          : 70px;
                     background      : white;
                     border-bottom   : solid 1px gray; 
-                    font-size       : 1.2em;
+                    font-size       : 1.4em;
                     z-index         : 1;
+                    box-shadow      : 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
                 }
                 card button span:last-child {
-                    color: #ff5722;
+                    color           : white;
+                    background      : #ff5722;
+                    border-radius   : 100%;
+                    width           : 60px;
+                    height          : 60px;
+                    display         : flex;
+                    justify-content : center;
+                    align-items     : center;
                 }
             </style>
         `
@@ -88,7 +96,7 @@ class ChooseDeck extends View {
         render(
             html`
                 ${this.__style()}
-                <header>Choose a deck to start</header>
+                <header>Chinese Decks</header>
                 <card>
                     ${repeat(
                         decks,
