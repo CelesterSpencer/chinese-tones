@@ -41,10 +41,11 @@ class Deck {
     }
 
     getSubsetByRating() {
-        const count = 20;
+        const allCards = 30;
+        const newCardsCount = 10;
 
-        // return if there are less than 20 cards in this deck
-        if (this.cards.length < count) {
+        // return if there are less than 30 cards in this deck
+        if (this.cards.length < allCards) {
             return this.cards;
         }
 
@@ -54,18 +55,14 @@ class Deck {
         oldCards.sort((a, b) => a.rating - b.rating);
 
         // determine how much to pick from the two sets
-        let newCardsToPick = Math.max(count - oldCards.length, 5);
-        let oldCardsToPick = count - newCardsToPick; 
+        let newCardsToPick = Math.max(allCards - oldCards.length, newCardsCount);
+        let oldCardsToPick = allCards - newCardsToPick; 
 
         // pick new cards in the order of appearance in the deck
         let cards = [];
         for (let i = 0; i < newCardsToPick; i++) {
             cards.push(newCards[i]);
         }
-
-        // fill exceptions
-        let existingCards = {};
-        cards.forEach(card => {existingCards[card.hanzi.join()] = card});
 
         // random function
         const randomCard = () => {
@@ -76,12 +73,19 @@ class Deck {
         // add old cards
         for(let i = 0; i < oldCardsToPick; i++) {
             let card = randomCard();
-            while(card.hanzi.join() in existingCards) { card = randomCard(); }
-            existingCards[card.hanzi.join()] = card;
+            oldCards.splice(oldCards.indexOf(card), 1);
             cards.push(card);
         }
 
         return new Deck(this.name, cards);
+    }
+
+    /**
+     * returns the number of cards with a rating of 0
+     */
+    getNumberOfNewCards() {
+        let newCards = this.cards.filter((card) => card.rating === 0);
+        return newCards.length;
     }
 
     /**

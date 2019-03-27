@@ -17,7 +17,7 @@ function noise() {
     while(v === 0) v = Math.random();
     let num = Math.sqrt( -2.0 * Math.log( u ) ) * Math.cos( 2.0 * Math.PI * v );
     num = num / 10.0 + 0.5; // Translate to 0 -> 1
-    if (num > 1 || num < 0) return randn_bm(); // resample between 0 and 1
+    if (num > 1 || num < 0) return Math.random(); // resample between 0 and 1
     return num;
 }
 

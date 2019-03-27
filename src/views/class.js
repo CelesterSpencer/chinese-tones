@@ -39,7 +39,7 @@ class Class extends View {
                 this.next();
                 this.render();
             }
-        }, 2000);
+        }, 1200);
     }
 
     __style() {
@@ -217,6 +217,7 @@ class Class extends View {
                     color: white;
                     border: 1px gray dashed;
                     border-radius: 5px;
+                    padding: 5px;
                 }
             </style>
         `
@@ -262,6 +263,7 @@ class Class extends View {
     finish() {
         this.currentCourse.finish();
         saveRating(this.session.getDeck());
+        this.session.__saveDeck(this.session.getDeck());
     }
     render() {
         let deck = this.session.getDeck();

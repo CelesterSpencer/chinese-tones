@@ -104,7 +104,7 @@ class ChooseDeck extends View {
                         (d, i) => html`
                             <button on-click=${_ => this.onClickHandler(i)}>
                                 <span>${d.name}</span>
-                                <span>${d.cards.length}</span>
+                                <span>${d.getNumberOfNewCards()}</span>
                             </button>
                         `
                     )}
