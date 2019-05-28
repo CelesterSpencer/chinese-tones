@@ -232,7 +232,7 @@
 接		jie1			jn. abholen
 俄国		e2guo2			Russland
 来		lai2			kommen (nach/in/zu)
-进城		jin4			eintreten/hineingehen in, betreten
+进城		jin4cheng2		eintreten/hineingehen in, betreten
 上课		shang4ke4		Unterricht haben/halten, mit dem Unterricht beginnen
 罢课		ba4ke4			den Unterricht boykottieren
 回		hui2			zurückgehen/kehren/kommen nach
@@ -853,7 +853,7 @@
 摩托车	mo2tuo1che1		Moped, Motorrad (ZW 辆)
 孙女		sun1nv3			Enkelin
 中学		zhong1xue2		Mittelschule (Z: 个, 所)
-别人		bie2re2n		ein anderer, die anderen, die Leute
+别人		bie2ren2		ein anderer, die anderen, die Leute
 冰箱		bing1xiang1		Kühlschrank (ZW 台)
 遇见		yu4jian4		jm. begegnen, jn. zufällig treffen
 春天		chun1tian1		Frühling

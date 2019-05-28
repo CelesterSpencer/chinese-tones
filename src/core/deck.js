@@ -46,7 +46,7 @@ class Deck {
 
         // return if there are less than 30 cards in this deck
         if (this.cards.length < allCards) {
-            return this.cards;
+            return new Deck(this.name, this.cards);
         }
 
         // filter new and old cards

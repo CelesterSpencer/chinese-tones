@@ -1,0 +1,64 @@
+{
+    "name": "Phrases",
+    "cards": [{
+        "hanzi": ["周", "末", "愉", "快", "!"],
+        "pinyin": ["zhou", "mo", "yu", "kuai", "!"],
+        "tone": ["1", "4", "2", "4", "5"],
+        "trans": "Have a nice weekend!"
+    }, {
+        "hanzi": ["你", "是", "从", "哪", "里", "来", "的", "?"],
+        "pinyin": ["ni", "shi", "cong", "na", "li", "lai", "de", "?"],
+        "tone": ["3", "4", "2", "3", "3", "2", "5", "5"],
+        "trans": "Where are you from?"
+    }, {
+        "hanzi": ["祝", "你", "好", "运", "!"],
+        "pinyin": ["zhu", "ni", "hao", "yun", "!"],
+        "tone": ["4", "3", "3", "4", "5"],
+        "trans": "Good luck!"
+    }, {
+        "hanzi": ["洗", "手", "间", "在", "哪", "里", "?"],
+        "pinyin": ["xi", "shou", "jian", "zai", "na", "li", "?"],
+        "tone": ["3", "3", "1", "4", "3", "3", "5"],
+        "trans": "Where's the toilet/bathroom?"
+    }, {
+        "hanzi": ["快", "点", "好", "啦", "!"],
+        "pinyin": ["kuai", "dian", "hao", "la", "!"],
+        "tone": ["4", "3", "3", "5", "5"],
+        "trans": "Get well soon!"
+    }, {
+        "hanzi": ["诶", "，", "什", "么", "事", "?"],
+        "pinyin": ["ei", ",", "shen", "me", "shi", "?"],
+        "tone": ["1", "5", "2", "5", "4", "5"],
+        "trans": "What's up?"
+    }, {
+        "hanzi": ["好", "搞", "笑", "!"],
+        "pinyin": ["hao", "gao", "xiao", "!"],
+        "tone": ["3", "3", "4", "5"],
+        "trans": "That's hilarious!"
+    }, {
+        "hanzi": ["不", "会", "吧", "?"],
+        "pinyin": ["bu", "hui", "ba", "?"],
+        "tone": ["2", "4", "5", "5"],
+        "trans": "Are you serious?/No way!"
+    }, {
+        "hanzi": ["我", "理", "解"],
+        "pinyin": ["wo", "li", "jie"],
+        "tone": ["3", "3", "3"],
+        "trans": "I understand."
+    }, {
+        "hanzi": ["下", "次", "再", "聊", "吧", "!"],
+        "pinyin": ["xia", "ci", "zai", "liao", "ba", "!"],
+        "tone": ["4", "4", "4", "2", "5", "5"],
+        "trans": "Let's talk another time!"
+    }, {
+        "hanzi": ["回", "头", "见"],
+        "pinyin": ["hui", "tou", "jian"],
+        "tone": ["2", "2", "4"],
+        "trans": "See you later!"
+    }, {
+        "hanzi": ["这", "个", "用", "汉", "语", "怎", "么", "说", "?"],
+        "pinyin": ["zhe", "ge", "yong", "han", "yu", "zen", "me", "shuo", "?"],
+        "tone": ["4", "5", "4", "4", "3", "3", "5", "1", "5"],
+        "trans": "How to say that in Chinese?"
+    }]
+}
